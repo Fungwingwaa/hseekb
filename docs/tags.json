@@ -1,0 +1,7893 @@
+{
+  "行政法": [
+    {
+      "link": "Laws/P1/EE/zhrmghgdqwrfzf",
+      "title": "中华人民共和国大气污染防治法",
+      "frontmatter": {
+        "title": "中华人民共和国大气污染防治法",
+        "shortTitle": "大气污染防治法",
+        "icon": "material/file-document",
+        "date": "2018-10-26",
+        "author": "全国人民代表大会常务委员会",
+        "order": "4",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/EE/zhrmghgfsxwrfzf",
+      "title": "中华人民共和国放射性污染防治法",
+      "frontmatter": {
+        "title": "中华人民共和国放射性污染防治法",
+        "shortTitle": "放射性污染防治法",
+        "icon": "material/file-document",
+        "date": "2003-10-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20031001",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/EE/zhrmghggtfwwrhjfzf",
+      "title": "中华人民共和国固体废物污染环境防治法",
+      "frontmatter": {
+        "title": "中华人民共和国固体废物污染环境防治法",
+        "shortTitle": "固体废物污染环境防治法",
+        "icon": "material/file-document",
+        "date": "2020-09-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "5",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/EE/zhrmghghjbhf",
+      "title": "中华人民共和国环境保护法",
+      "frontmatter": {
+        "title": "中华人民共和国环境保护法",
+        "shortTitle": "环境保护法",
+        "icon": "material/file-document",
+        "date": "2015-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "1",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/EE/zhrmghghjyxpjf",
+      "title": "中华人民共和国环境影响评价法",
+      "frontmatter": {
+        "title": "中华人民共和国环境影响评价法",
+        "shortTitle": "环境影响评价法",
+        "icon": "material/file-document",
+        "date": "2018-12-29",
+        "author": "全国人民代表大会常务委员会",
+        "order": "2",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/EE/zhrmghghyhjbhf",
+      "title": "中华人民共和国海洋环境保护法",
+      "frontmatter": {
+        "title": "中华人民共和国海洋环境保护法",
+        "shortTitle": "海洋环境保护法",
+        "icon": "material/file-document",
+        "date": "2024-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20240101",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "海洋"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/EE/zhrmghgswrfzf",
+      "title": "中华人民共和国水污染防治法",
+      "frontmatter": {
+        "title": "中华人民共和国水污染防治法",
+        "shortTitle": "水污染防治法",
+        "icon": "material/file-document",
+        "date": "2018-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "3",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/EE/zhrmghgtrwrfzf",
+      "title": "中华人民共和国土壤污染防治法",
+      "frontmatter": {
+        "title": "中华人民共和国土壤污染防治法",
+        "shortTitle": "土壤污染防治法",
+        "icon": "material/file-document",
+        "date": "2019-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20190101",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/Others/zhrmghgtfsjydf",
+      "title": "中华人民共和国突发事件应对法",
+      "frontmatter": {
+        "title": "中华人民共和国突发事件应对法",
+        "shortTitle": "突发事件应对法",
+        "icon": "material/file-document",
+        "date": "2024-11-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20241101",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "应急"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/Others/zhrmghgxzcff",
+      "title": "中华人民共和国行政处罚法",
+      "frontmatter": {
+        "title": "中华人民共和国行政处罚法",
+        "shortTitle": "行政处罚法",
+        "icon": "material/file-document",
+        "date": "2021-07-15",
+        "author": "全国人民代表大会",
+        "order": "2",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/Others/zhrmghgxzfyf",
+      "title": "中华人民共和国行政复议法",
+      "frontmatter": {
+        "title": "中华人民共和国行政复议法",
+        "shortTitle": "行政复议法",
+        "icon": "material/file-document",
+        "date": "2024-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "5",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "行政复议"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/Others/zhrmghgxzqzf",
+      "title": "中华人民共和国行政强制法",
+      "frontmatter": {
+        "title": "中华人民共和国行政强制法",
+        "shortTitle": "行政强制法",
+        "icon": "material/file-document",
+        "date": "2012-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "6",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "行政强制"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/Others/zhrmghgxzxkf",
+      "title": "中华人民共和国行政许可法",
+      "frontmatter": {
+        "title": "中华人民共和国行政许可法",
+        "shortTitle": "行政许可法",
+        "icon": "material/file-document",
+        "date": "2019-04-23",
+        "author": "全国人民代表大会常务委员会",
+        "order": "3",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法"
+        ]
+      }
+    }
+  ],
+  "大气": [
+    {
+      "link": "Laws/P1/EE/zhrmghgdqwrfzf",
+      "title": "中华人民共和国大气污染防治法",
+      "frontmatter": {
+        "title": "中华人民共和国大气污染防治法",
+        "shortTitle": "大气污染防治法",
+        "icon": "material/file-document",
+        "date": "2018-10-26",
+        "author": "全国人民代表大会常务委员会",
+        "order": "4",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/tpfqjyglzxtl",
+      "title": "碳排放权交易管理暂行条例",
+      "frontmatter": {
+        "title": "碳排放权交易管理暂行条例",
+        "icon": "material/file-document",
+        "date": "2024-05-01",
+        "author": "国务院",
+        "order": "-20240501",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "大气",
+          "碳排放"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/xhcycwzgltl",
+      "title": "消耗臭氧层物质管理条例",
+      "frontmatter": {
+        "title": "消耗臭氧层物质管理条例",
+        "icon": "material/file-document",
+        "date": "2024-03-01",
+        "author": "国务院",
+        "order": "-20240301",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdsdqwrfztl",
+      "title": "广东省大气污染防治条例",
+      "frontmatter": {
+        "title": "广东省大气污染防治条例",
+        "shortTitle": "广东大气污染防治条例",
+        "icon": "material/file-document",
+        "date": "2022-11-30",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "3",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdsjdcpqwrfztl",
+      "title": "广东省机动车排气污染防治条例",
+      "frontmatter": {
+        "title": "广东省机动车排气污染防治条例",
+        "shortTitle": "广东机动车排气污染防治条例",
+        "icon": "material/file-document",
+        "date": "2022-11-30",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "-20221130",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/jmsycwrfztl",
+      "title": "江门市扬尘污染防治条例",
+      "frontmatter": {
+        "title": "江门市扬尘污染防治条例",
+        "shortTitle": "江门扬尘污染防治条例",
+        "icon": "material/file-document",
+        "date": "2022-01-01",
+        "author": "江门市人民代表大会常务委员会",
+        "order": "-220101",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdstpfglsxbf",
+      "title": "广东省碳排放管理试行办法",
+      "frontmatter": {
+        "title": "广东省碳排放管理试行办法",
+        "shortTitle": "广东碳排放管理试行办法",
+        "icon": "material/file-document",
+        "date": "2014-03-01",
+        "author": "广东省人民政府",
+        "order": "-20140301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "大气",
+          "碳排放"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/gdsgyyhfxyjwjplhsff",
+      "title": "广东省工业源挥发性有机物减排量核算方法（2023年修订版）",
+      "frontmatter": {
+        "title": "广东省工业源挥发性有机物减排量核算方法（2023年修订版）",
+        "shortTitle": "广东工业源挥发性有机物减排量核算方法",
+        "icon": "material/book",
+        "date": "2023-11-17",
+        "author": "广东省生态环境厅",
+        "order": "-20231117",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmsrmzfgyhdjzhycxsqydtg",
+      "title": "江门市人民政府关于划定禁止黑烟车行驶区域的通告",
+      "frontmatter": {
+        "title": "江门市人民政府关于划定禁止黑烟车行驶区域的通告",
+        "shortTitle": "江门禁止黑烟车行驶区域",
+        "icon": "material/file-document",
+        "date": "2020-07-16",
+        "author": "江门市人民政府",
+        "order": "-200716",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmsrmzfgyhdjzsygpffdlydjxqydtg",
+      "title": "江门市人民政府关于划定禁止使用高排放非道路移动机械区域的通告",
+      "frontmatter": {
+        "title": "江门市人民政府关于划定禁止使用高排放非道路移动机械区域的通告",
+        "shortTitle": "江门禁止使用高排放非道路移动机械区域",
+        "icon": "material/file-document",
+        "date": "2024-01-01",
+        "author": "江门市人民政府",
+        "order": "-240101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmsrmzfgyjmsrqglzxdqwrwtbpfxzdgg",
+      "title": "江门市人民政府关于江门市燃气锅炉执行大气污染物特别排放限值的公告",
+      "frontmatter": {
+        "title": "江门市人民政府关于江门市燃气锅炉执行大气污染物特别排放限值的公告",
+        "shortTitle": "江门燃气锅炉大气污染物特别排放限值",
+        "icon": "material/file-document",
+        "date": "2022-08-15",
+        "author": "江门市人民政府",
+        "order": "-220815",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmsrmzfgyssgspfbzcyhcxztxjtglcsdtg",
+      "title": "江门市人民政府关于实施国Ⅲ排放标准柴油货车限制通行交通管理措施的通告",
+      "frontmatter": {
+        "title": "江门市人民政府关于实施国Ⅲ排放标准柴油货车限制通行交通管理措施的通告",
+        "shortTitle": "江门国Ⅲ柴油货车限行",
+        "icon": "material/file-document",
+        "date": "2025-09-01",
+        "author": "江门市人民政府",
+        "order": "-250901",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/tpfqjyglbf",
+      "title": "碳排放权交易管理办法（试行）",
+      "frontmatter": {
+        "title": "碳排放权交易管理办法（试行）",
+        "icon": "material/file-document",
+        "date": "2021-02-01",
+        "author": "生态环境部",
+        "order": "-20210201",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "大气",
+          "碳排放"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wsqtzyjpjyglbf",
+      "title": "温室气体自愿减排交易管理办法（试行）",
+      "frontmatter": {
+        "title": "温室气体自愿减排交易管理办法（试行）",
+        "shortTitle": "温室气体自愿减排交易管理办法（试行）",
+        "icon": "material/file-document",
+        "date": "2023-10-19",
+        "author": "生态环境部等",
+        "order": "-20231019",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/xhcycwzjckglbf",
+      "title": "消耗臭氧层物质进出口管理办法",
+      "frontmatter": {
+        "title": "消耗臭氧层物质进出口管理办法",
+        "icon": "material/file-document",
+        "date": "2025-05-01",
+        "author": "生态环境部",
+        "order": "-20250501",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/gwrrlml",
+      "title": "高污染燃料目录",
+      "frontmatter": {
+        "title": "高污染燃料目录",
+        "shortTitle": "高污染燃料目录",
+        "icon": "material/file-table",
+        "date": "2017-03-27",
+        "author": "原环境保护部办公厅",
+        "order": "20170327",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/ydyhdqwrwml",
+      "title": "有毒有害大气污染物名录",
+      "frontmatter": {
+        "title": "有毒有害大气污染物名录",
+        "shortTitle": "有毒有害大气污染物名录",
+        "icon": "material/file-table",
+        "date": "2019-01-23",
+        "author": "生态环境部等",
+        "order": "7",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gyecqtcbpfflsyygwtdfh",
+      "title": "关于恶臭气体超标排放法律适用有关问题的复函",
+      "frontmatter": {
+        "title": "关于恶臭气体超标排放法律适用有关问题的复函",
+        "shortTitle": "恶臭气体超标排放法律适用",
+        "icon": "material/file-document",
+        "date": "2020-03-20",
+        "author": "生态环境部办公厅",
+        "order": "-200320",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-1837-2016",
+      "title": "DB44/ 1837—2016",
+      "frontmatter": {
+        "title": "DB44/ 1837—2016",
+        "subtitle": "集装箱制造业挥发性有机物排放标准",
+        "icon": "material/book",
+        "date": "2016-07-01",
+        "author": "原广东省环境保护厅",
+        "order": "-20160701",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-2159-2019",
+      "title": "DB44/ 2159—2019",
+      "frontmatter": {
+        "title": "DB44/ 2159—2019",
+        "subtitle": "玻璃工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2019-08-01",
+        "author": "广东省生态环境厅",
+        "order": "20190801",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-2160-2019",
+      "title": "DB44/ 2160—2019",
+      "frontmatter": {
+        "title": "DB44/ 2160—2019",
+        "subtitle": "陶瓷工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2019-08-01",
+        "author": "广东省生态环境厅",
+        "order": "-20190801",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-2367-2022",
+      "title": "DB44/ 2367—2022",
+      "frontmatter": {
+        "title": "DB44/ 2367—2022",
+        "subtitle": "固定污染源挥发性有机物综合排放标准",
+        "icon": "material/book",
+        "date": "2022-09-01",
+        "author": "广东省生态环境厅",
+        "order": "2",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-27-2001",
+      "title": "DB44/ 27—2001",
+      "frontmatter": {
+        "title": "DB44/ 27—2001",
+        "subtitle": "大气污染物排放限值",
+        "icon": "material/book",
+        "date": "2002-01-01",
+        "author": "原广东省环境保护局",
+        "order": "1",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-765-2019",
+      "title": "DB44/ 765—2019",
+      "frontmatter": {
+        "title": "DB44/ 765—2019",
+        "subtitle": "锅炉大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2019-04-01",
+        "author": "广东省生态环境厅",
+        "order": "-20190401",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-814-2010",
+      "title": "DB44/ 814—2010",
+      "frontmatter": {
+        "title": "DB44/ 814—2010",
+        "subtitle": "家具制造行业挥发性有机化合物排放标准",
+        "icon": "material/book",
+        "date": "2010-11-01",
+        "author": "原广东省环境保护厅",
+        "order": "-20101101",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-815-2010",
+      "title": "DB44/ 815—2010",
+      "frontmatter": {
+        "title": "DB44/ 815—2010",
+        "subtitle": "印刷行业挥发性有机化合物排放标准",
+        "icon": "material/book",
+        "date": "2010-11-01",
+        "author": "原广东省环境保护厅",
+        "order": "-20101101",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-816-2010",
+      "title": "DB44/ 816—2010",
+      "frontmatter": {
+        "title": "DB44/ 816—2010",
+        "subtitle": "表面涂装（汽车制造业）挥发性有机化合物排放标准",
+        "icon": "material/book",
+        "date": "2010-11-01",
+        "author": "原广东省环境保护厅",
+        "order": "-20101101",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-817-2010",
+      "title": "DB44/ 817—2010",
+      "frontmatter": {
+        "title": "DB44/ 817—2010",
+        "subtitle": "制鞋行业挥发性有机化合物排放标准",
+        "icon": "material/book",
+        "date": "2010-11-01",
+        "author": "原广东省环境保护厅",
+        "order": "-20101101",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/G/DB-44-818-2010",
+      "title": "DB44/ 818—2010",
+      "frontmatter": {
+        "title": "DB44/ 818—2010",
+        "subtitle": "水泥工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2010-11-01",
+        "author": "原广东省环境保护厅",
+        "order": "-20101101",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2556-2024",
+      "title": "DB44/T 2556—2024",
+      "frontmatter": {
+        "title": "DB44/T 2556—2024",
+        "subtitle": "燃煤电厂膜法碳捕集运行技术规范",
+        "icon": "material/book",
+        "date": "2025-01-28",
+        "author": "广东省生态环境厅",
+        "order": "-20250128",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2557-2024",
+      "title": "DB44/T 2557—2024",
+      "frontmatter": {
+        "title": "DB44/T 2557—2024",
+        "subtitle": "燃煤电厂二氧化碳捕集测试平台运行技术规范",
+        "icon": "material/book",
+        "date": "2025-01-28",
+        "author": "广东省生态环境厅",
+        "order": "-20250128",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2596-2024",
+      "title": "DB44/T 2596—2024",
+      "frontmatter": {
+        "title": "DB44/T 2596—2024",
+        "subtitle": "火力发电二氧化碳排放连续监测技术要求",
+        "icon": "material/book",
+        "date": "2025-03-23",
+        "author": "广东省生态环境厅",
+        "order": "-20250323",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/W/DB-44-613-2024",
+      "title": "DB44/ 613—2024",
+      "frontmatter": {
+        "title": "DB44/ 613—2024",
+        "subtitle": "畜禽养殖业污染物排放标准",
+        "icon": "material/book",
+        "date": "2024-05-01",
+        "author": "广东省生态环境厅",
+        "order": "-20240501",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "养殖",
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-13271-2014",
+      "title": "GB 13271—2014",
+      "frontmatter": {
+        "title": "GB 13271—2014",
+        "subtitle": "锅炉大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2014-07-01",
+        "author": "原环境保护部",
+        "order": "-20140701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-13801-2015",
+      "title": "GB 13801—2015",
+      "frontmatter": {
+        "title": "GB 13801—2015",
+        "subtitle": "火葬场大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2015-07-01",
+        "author": "原环境保护部",
+        "order": "-20150701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-14554-93",
+      "title": "GB 14554—93",
+      "frontmatter": {
+        "title": "GB 14554—93",
+        "subtitle": "恶臭污染物排放标准",
+        "icon": "material/book",
+        "date": "1994-01-15",
+        "author": "原国家环境保护局",
+        "order": "-19940115",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-16297-1996",
+      "title": "GB 16297—1996",
+      "frontmatter": {
+        "title": "GB 16297—1996",
+        "subtitle": "大气污染物综合排放标准",
+        "icon": "material/book",
+        "date": "1997-01-01",
+        "author": "原国家环境保护局",
+        "order": "1",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-18285-2018",
+      "title": "GB 18285—2018",
+      "frontmatter": {
+        "title": "GB 18285—2018",
+        "subtitle": "汽油车污染物排放限值及测量方法（双怠速法及简易工况法）",
+        "icon": "material/book",
+        "date": "2019-05-01",
+        "author": "生态环境部等",
+        "order": "-20190501",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-18483-2001",
+      "title": "GB 18483—2001",
+      "frontmatter": {
+        "title": "GB 18483—2001",
+        "subtitle": "饮食业油烟排放标准（试行）",
+        "icon": "material/book",
+        "date": "2002-01-01",
+        "author": "原国家环境保护总局",
+        "order": "-20020101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-20950-2020",
+      "title": "GB 20950—2020",
+      "frontmatter": {
+        "title": "GB 20950—2020",
+        "subtitle": "储油库大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2021-04-01",
+        "author": "生态环境部",
+        "order": "-20210401",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-20951-2020",
+      "title": "GB 20951—2020",
+      "frontmatter": {
+        "title": "GB 20951—2020",
+        "subtitle": "油品运输大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2021-04-01",
+        "author": "生态环境部",
+        "order": "-20210401",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-20952-2020",
+      "title": "GB 20952—2020",
+      "frontmatter": {
+        "title": "GB 20952—2020",
+        "subtitle": "加油站大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2021-04-01",
+        "author": "生态环境部",
+        "order": "-20210401",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-26453-2011",
+      "title": "GB 26453—2011",
+      "frontmatter": {
+        "title": "GB 26453—2011",
+        "subtitle": "平板玻璃工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2011-10-01",
+        "author": "原环境保护部",
+        "order": "-20111001",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-26453-2022",
+      "title": "GB 26453—2022",
+      "frontmatter": {
+        "title": "GB 26453—2022",
+        "subtitle": "玻璃工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2023-01-01",
+        "author": "生态环境部",
+        "order": "-20230101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-29620-2013",
+      "title": "GB 29620—2013",
+      "frontmatter": {
+        "title": "GB 29620—2013",
+        "subtitle": "砖瓦工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2014-01-01",
+        "author": "原环境保护部",
+        "order": "-20140101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-30484-2013",
+      "title": "GB 30484—2013",
+      "frontmatter": {
+        "title": "GB 30484—2013",
+        "subtitle": "电池工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2014-03-01",
+        "author": "原环境保护部",
+        "order": "-20140301",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-31571-2015",
+      "title": "GB 31571—2015",
+      "frontmatter": {
+        "title": "GB 31571—2015",
+        "subtitle": "石油化学工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2015-07-01",
+        "author": "原环境保护部",
+        "order": "-20150701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-36886-2018",
+      "title": "GB 36886—2018",
+      "frontmatter": {
+        "title": "GB 36886—2018",
+        "subtitle": "非道路柴油移动机械排气烟度限值及测量方法",
+        "icon": "material/book",
+        "date": "2018-12-01",
+        "author": "生态环境部等",
+        "order": "-20181201",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-37822-2019",
+      "title": "GB 37822—2019",
+      "frontmatter": {
+        "title": "GB 37822—2019",
+        "subtitle": "挥发性有机物无组织排放控制标准",
+        "icon": "material/book",
+        "date": "2019-07-01",
+        "author": "生态环境部",
+        "order": "2",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-37824-2019",
+      "title": "GB 37824—2019",
+      "frontmatter": {
+        "title": "GB 37824—2019",
+        "subtitle": "涂料、油墨及胶粘剂工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2019-07-01",
+        "author": "生态环境部",
+        "order": "-20190701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-3847-2018",
+      "title": "GB 3847—2018",
+      "frontmatter": {
+        "title": "GB 3847—2018",
+        "subtitle": "柴油车污染物排放限值及测量方法（自由加速法及加载减速法）",
+        "icon": "material/book",
+        "date": "2019-05-01",
+        "author": "生态环境部等",
+        "order": "-20190501",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-39726-2020",
+      "title": "GB 39726—2020",
+      "frontmatter": {
+        "title": "GB 39726—2020",
+        "subtitle": "铸造工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2021-01-01",
+        "author": "生态环境部",
+        "order": "-20210101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-41616-2022",
+      "title": "GB 41616—2022",
+      "frontmatter": {
+        "title": "GB 41616—2022",
+        "subtitle": "印刷工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2023-01-01",
+        "author": "生态环境部",
+        "order": "-20230101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-45841-2025",
+      "title": "GB 45841—2025",
+      "frontmatter": {
+        "title": "GB 45841—2025",
+        "subtitle": "铁路内燃机车及其发动机排气污染物排放限值及测量方法（中国第一阶段）",
+        "icon": "material/book",
+        "date": "2025-09-01",
+        "author": "生态环境部",
+        "order": "-20250901",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-4915-2013",
+      "title": "GB 4915—2013",
+      "frontmatter": {
+        "title": "GB 4915—2013",
+        "subtitle": "水泥工业大气污染物排放标准",
+        "icon": "material/book",
+        "date": "2014-03-01",
+        "author": "原环境保护部",
+        "order": "-20140301",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-9078-1996",
+      "title": "GB 9078—1996",
+      "frontmatter": {
+        "title": "GB 9078—1996",
+        "subtitle": "工业炉窑大气污染物排放标准",
+        "icon": "material/book",
+        "date": "1997-01-01",
+        "author": "原国家环境保护局",
+        "order": "-19970101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/Others/GB-33372-2020",
+      "title": "GB 33372—2020",
+      "frontmatter": {
+        "title": "GB 33372—2020",
+        "subtitle": "胶粘剂挥发性有机化合物限量",
+        "icon": "material/book",
+        "date": "2020-12-01",
+        "author": "国家工业和信息化部等",
+        "order": "-20201201",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/Others/GB-38507-2020",
+      "title": "GB 38507—2020",
+      "frontmatter": {
+        "title": "GB 38507—2020",
+        "subtitle": "油墨中可挥发性有机化合物（VOCs）含量的限值",
+        "icon": "material/book",
+        "date": "2021-04-01",
+        "author": "国家工业和信息化部等",
+        "order": "-20210401",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/Others/GB-38508-2020",
+      "title": "GB 38508—2020",
+      "frontmatter": {
+        "title": "GB 38508—2020",
+        "subtitle": "清洗剂挥发性有机化合物含量限值",
+        "icon": "material/book",
+        "date": "2020-12-01",
+        "author": "国家工业和信息化部等",
+        "order": "-20201201",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/Others/GB-T-38597-2020",
+      "title": "GB/T 38597—2020",
+      "frontmatter": {
+        "title": "GB/T 38597—2020",
+        "subtitle": "低挥发性有机化合物含量涂料产品技术要求",
+        "icon": "material/book",
+        "date": "2021-02-01",
+        "author": "中国石油和化学工业联合会等",
+        "order": "-20210201",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-18918-2002",
+      "title": "GB 18918—2002",
+      "frontmatter": {
+        "title": "GB 18918—2002",
+        "subtitle": "城镇污水处理厂污染物排放标准",
+        "icon": "material/book",
+        "date": "2003-07-01",
+        "author": "原国家环境保护总局",
+        "order": "-20030701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气",
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-21900-2008",
+      "title": "GB 21900—2008",
+      "frontmatter": {
+        "title": "GB 21900—2008",
+        "subtitle": "电镀污染物排放标准",
+        "icon": "material/book",
+        "date": "2008-08-01",
+        "author": "原环境保护部",
+        "order": "-20080801",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-21902-2008",
+      "title": "GB 21902—2008",
+      "frontmatter": {
+        "title": "GB 21902—2008",
+        "subtitle": "合成革与人造革工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2008-08-01",
+        "author": "原环境保护部",
+        "order": "-20080801",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-26131-2010",
+      "title": "GB 26131—2010",
+      "frontmatter": {
+        "title": "GB 26131—2010",
+        "subtitle": "硝酸工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2011-03-01",
+        "author": "原环境保护部",
+        "order": "-20110301",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-26132-2010",
+      "title": "GB 26132—2010",
+      "frontmatter": {
+        "title": "GB 26132—2010",
+        "subtitle": "硫酸工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2011-03-01",
+        "author": "原环境保护部",
+        "order": "-20110301",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-31572-2015",
+      "title": "GB 31572—2015",
+      "frontmatter": {
+        "title": "GB 31572—2015",
+        "subtitle": "合成树脂工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2015-07-01",
+        "author": "原环境保护部",
+        "order": "-20150701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-31573-2015",
+      "title": "GB 31573—2015",
+      "frontmatter": {
+        "title": "GB 31573—2015",
+        "subtitle": "无机化学工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2015-07-01",
+        "author": "原环境保护部",
+        "order": "-20150701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1014-2020",
+      "title": "HJ 1014—2020",
+      "frontmatter": {
+        "title": "HJ 1014—2020",
+        "subtitle": "非道路柴油移动机械污染物排放控制技术要求",
+        "icon": "material/book",
+        "date": "2020-12-28",
+        "author": "生态环境部",
+        "order": "-20201228",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1230-2021",
+      "title": "HJ 1230—2021",
+      "frontmatter": {
+        "title": "HJ 1230—2021",
+        "subtitle": "工业企业挥发性有机物泄漏检测与修复技术指南",
+        "icon": "material/book",
+        "date": "2022-04-01",
+        "author": "生态环境部",
+        "order": "-20220401",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1237-2021",
+      "title": "HJ 1237—2021",
+      "frontmatter": {
+        "title": "HJ 1237—2021",
+        "subtitle": "机动车排放定期检验规范",
+        "icon": "material/book",
+        "date": "2022-07-01",
+        "author": "生态环境部",
+        "order": "-20220701",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    }
+  ],
+  "辐射": [
+    {
+      "link": "Laws/P1/EE/zhrmghgfsxwrfzf",
+      "title": "中华人民共和国放射性污染防治法",
+      "frontmatter": {
+        "title": "中华人民共和国放射性污染防治法",
+        "shortTitle": "放射性污染防治法",
+        "icon": "material/file-document",
+        "date": "2003-10-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20031001",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/fsxfwaqgltl",
+      "title": "放射性废物安全管理条例",
+      "frontmatter": {
+        "title": "放射性废物安全管理条例",
+        "icon": "material/file-document",
+        "date": "2012-03-01",
+        "author": "国务院",
+        "order": "-20120301",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/fsxtwsysxzzaqhfhtl",
+      "title": "放射性同位素与射线装置安全和防护条例",
+      "frontmatter": {
+        "title": "放射性同位素与射线装置安全和防护条例",
+        "icon": "material/file-document",
+        "date": "2005-12-01",
+        "author": "国务院",
+        "order": "-20051201",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/fsxwpysaqgltl",
+      "title": "放射性物品运输安全管理条例",
+      "frontmatter": {
+        "title": "放射性物品运输安全管理条例",
+        "icon": "material/file-document",
+        "date": "2010-01-01",
+        "author": "国务院",
+        "order": "-20100101",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdsmyhsshsgyfhyjgltl",
+      "title": "广东省民用核设施核事故预防和应急管理条例",
+      "frontmatter": {
+        "title": "广东省民用核设施核事故预防和应急管理条例",
+        "shortTitle": "广东民用核设施核事故预防和应急管理条例",
+        "icon": "material/file-document",
+        "date": "2018-11-29",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "-20181129",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/fsxtwsysxzzaqhefhglbf",
+      "title": "放射性同位素与射线装置安全和防护管理办法",
+      "frontmatter": {
+        "title": "放射性同位素与射线装置安全和防护管理办法",
+        "icon": "material/file-document",
+        "date": "2011-05-01",
+        "author": "原环境保护部",
+        "order": "-20110501",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/fsxtwsysxzzaqxkglbf",
+      "title": "放射性同位素与射线装置安全许可管理办法",
+      "frontmatter": {
+        "title": "放射性同位素与射线装置安全许可管理办法",
+        "icon": "material/file-document",
+        "date": "2006-03-01",
+        "author": "原国家环境保护总局",
+        "order": "-20060301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2519-2024",
+      "title": "DB44/T 2519—2024",
+      "frontmatter": {
+        "title": "DB44/T 2519—2024",
+        "subtitle": "5G移动通信基站电磁辐射环境监测技术规范",
+        "icon": "material/book",
+        "date": "2024-09-07",
+        "author": "广东省生态环境厅",
+        "order": "-20240907",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2608-2024",
+      "title": "DB44/T 2608—2024",
+      "frontmatter": {
+        "title": "DB44/T 2608—2024",
+        "subtitle": "伴生放射性矿开发利用场地土壤放射性污染状况调查技术导则",
+        "icon": "material/book",
+        "date": "2025-04-23",
+        "author": "广东省生态环境厅",
+        "order": "-20250423",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "辐射",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/Others/GB-11806-2019",
+      "title": "GB 11806—2019",
+      "frontmatter": {
+        "title": "GB 11806—2019",
+        "subtitle": "放射性物品安全运输规程",
+        "icon": "material/book",
+        "date": "2019-04-01",
+        "author": "生态环境部",
+        "order": "-20190401",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/Others/GB-8702-2014",
+      "title": "GB 8702—2014",
+      "frontmatter": {
+        "title": "GB 8702—2014",
+        "subtitle": "电磁环境控制限值",
+        "icon": "material/book",
+        "date": "2015-01-01",
+        "author": "原环境保护部",
+        "order": "-20150101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "辐射"
+        ]
+      }
+    }
+  ],
+  "固废": [
+    {
+      "link": "Laws/P1/EE/zhrmghggtfwwrhjfzf",
+      "title": "中华人民共和国固体废物污染环境防治法",
+      "frontmatter": {
+        "title": "中华人民共和国固体废物污染环境防治法",
+        "shortTitle": "固体废物污染环境防治法",
+        "icon": "material/file-document",
+        "date": "2020-09-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "5",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/fqdqdzcphsclgltl",
+      "title": "废弃电器电子产品回收处理管理条例",
+      "frontmatter": {
+        "title": "废弃电器电子产品回收处理管理条例",
+        "icon": "material/file-document",
+        "date": "2011-01-01",
+        "author": "国务院",
+        "order": "-20110101",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/wxfwjyxkzglbf",
+      "title": "危险废物经营许可证管理办法",
+      "frontmatter": {
+        "title": "危险废物经营许可证管理办法",
+        "icon": "material/file-document",
+        "date": "2016-02-06",
+        "author": "国务院",
+        "order": "-20160206",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/ylfwgltl",
+      "title": "医疗废物管理条例",
+      "frontmatter": {
+        "title": "医疗废物管理条例",
+        "icon": "material/file-document",
+        "date": "2003-06-16",
+        "author": "国务院",
+        "order": "-20030616",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdsgtfwwrhjfztl",
+      "title": "广东省固体废物污染环境防治条例",
+      "frontmatter": {
+        "title": "广东省固体废物污染环境防治条例",
+        "shortTitle": "广东固体废物污染环境防治条例",
+        "icon": "material/file-document",
+        "date": "2022-11-30",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "4",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/czshwsclcwnclczglbf",
+      "title": "城镇生活污水处理厂污泥处理处置管理办法",
+      "frontmatter": {
+        "title": "城镇生活污水处理厂污泥处理处置管理办法",
+        "shortTitle": "城镇污水厂污泥处理处置管理办法",
+        "icon": "material/file-document",
+        "date": "2022-11-01",
+        "author": "广东省住房和城乡建设厅等",
+        "order": "-20221101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/jmsjzljglbf",
+      "title": "江门市建筑垃圾管理办法",
+      "frontmatter": {
+        "title": "江门市建筑垃圾管理办法",
+        "shortTitle": "江门建筑垃圾管理办法",
+        "icon": "material/file-document",
+        "date": "2024-03-01",
+        "author": "江门市人民政府",
+        "order": "-240301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/dzfwwrhjfzglbf",
+      "title": "电子废物污染环境防治管理办法",
+      "frontmatter": {
+        "title": "电子废物污染环境防治管理办法",
+        "icon": "material/file-document",
+        "date": "2008-02-01",
+        "author": "原国家环境保护总局",
+        "order": "-20080201",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/fqdqdzcpclzgxkglbf",
+      "title": "废弃电器电子产品处理资格许可管理办法",
+      "frontmatter": {
+        "title": "废弃电器电子产品处理资格许可管理办法",
+        "icon": "material/file-document",
+        "date": "2011-01-01",
+        "author": "原环境保护部",
+        "order": "-20110101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wkwrhjfzglbf",
+      "title": "尾矿污染环境防治管理办法",
+      "frontmatter": {
+        "title": "尾矿污染环境防治管理办法",
+        "icon": "material/file-document",
+        "date": "2022-07-01",
+        "author": "生态环境部",
+        "order": "-20220701",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wxfwckhzglbf",
+      "title": "危险废物出口核准管理办法",
+      "frontmatter": {
+        "title": "危险废物出口核准管理办法",
+        "icon": "material/file-document",
+        "date": "2008-03-01",
+        "author": "原国家环境保护总局",
+        "order": "-20080301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wxfwzyglbf",
+      "title": "危险废物转移管理办法",
+      "frontmatter": {
+        "title": "危险废物转移管理办法",
+        "icon": "material/file-document",
+        "date": "2022-01-01",
+        "author": "生态环境部等",
+        "order": "-20220101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/ylfwglxzcfbf",
+      "title": "医疗废物管理行政处罚办法",
+      "frontmatter": {
+        "title": "医疗废物管理行政处罚办法",
+        "icon": "material/file-document",
+        "date": "2004-06-01",
+        "author": "原国家环境保护总局等",
+        "order": "-20040601",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法",
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/fqdqdzcpclml",
+      "title": "废弃电器电子产品处理目录",
+      "frontmatter": {
+        "title": "废弃电器电子产品处理目录",
+        "shortTitle": "废弃电器电子产品处理目录",
+        "icon": "material/file-table",
+        "date": "2011-01-01",
+        "author": "国家发改委等",
+        "order": "20110101",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/gjwxfwml",
+      "title": "国家危险废物名录（2025年版）",
+      "frontmatter": {
+        "title": "国家危险废物名录（2025年版）",
+        "shortTitle": "危废名录",
+        "icon": "material/file-table",
+        "date": "2025-01-01",
+        "author": "生态环境部等",
+        "order": "3",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/gtfwflydmml",
+      "title": "固体废物分类与代码目录",
+      "frontmatter": {
+        "title": "固体废物分类与代码目录",
+        "shortTitle": "固体废物分类与代码目录",
+        "icon": "material/file-table",
+        "date": "2024-01-22",
+        "author": "生态环境部",
+        "order": "4",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/ylfwflml",
+      "title": "医疗废物分类目录（2021年版）",
+      "frontmatter": {
+        "title": "医疗废物分类目录（2021年版）",
+        "shortTitle": "医疗废物分类目录",
+        "icon": "material/file-table",
+        "date": "2021-12-01",
+        "author": "国家卫生健康委、生态环境部",
+        "order": "211201",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2580-2024",
+      "title": "DB44/T 2580—2024",
+      "frontmatter": {
+        "title": "DB44/T 2580—2024",
+        "subtitle": "危险废物集中收集单位规范化管理指南",
+        "icon": "material/book",
+        "date": "2025-03-10",
+        "author": "广东省生态环境厅",
+        "order": "-20250310",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2581-2024",
+      "title": "DB44/T 2581—2024",
+      "frontmatter": {
+        "title": "DB44/T 2581—2024",
+        "subtitle": "废电路板综合利用污染控制技术规范",
+        "icon": "material/book",
+        "date": "2025-03-10",
+        "author": "广东省生态环境厅",
+        "order": "-20250310",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-16889-2024",
+      "title": "GB 16889—2024",
+      "frontmatter": {
+        "title": "GB 16889—2024",
+        "subtitle": "生活垃圾填埋场污染控制标准",
+        "icon": "material/book",
+        "date": "2024-09-01",
+        "author": "生态环境部",
+        "order": "-20240901",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-18484-2020",
+      "title": "GB 18484—2020",
+      "frontmatter": {
+        "title": "GB 18484—2020",
+        "subtitle": "危险废物焚烧污染控制标准",
+        "icon": "material/book",
+        "date": "2021-07-01",
+        "author": "生态环境部",
+        "order": "-20210701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-18597-2023",
+      "title": "GB 18597—2023",
+      "frontmatter": {
+        "title": "GB 18597—2023",
+        "subtitle": "危险废物贮存污染控制标准",
+        "icon": "material/book",
+        "date": "2023-07-01",
+        "author": "生态环境部等",
+        "order": "-20230701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-18598-2019",
+      "title": "GB 18598—2019",
+      "frontmatter": {
+        "title": "GB 18598—2019",
+        "subtitle": "危险废物填埋污染控制标准",
+        "icon": "material/book",
+        "date": "2020-06-01",
+        "author": "生态环境部",
+        "order": "-20200601",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-18599-2020",
+      "title": "GB 18599—2020",
+      "frontmatter": {
+        "title": "GB 18599—2020",
+        "subtitle": "一般工业固体废物贮存和填埋污染控制标准",
+        "icon": "material/book",
+        "date": "2021-07-01",
+        "author": "生态环境部",
+        "order": "-20210701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-34330-2017",
+      "title": "GB 34330—2017",
+      "frontmatter": {
+        "title": "GB 34330—2017",
+        "subtitle": "固体废物鉴别标准 通则",
+        "icon": "material/book",
+        "date": "2017-10-01",
+        "author": "原环境保护部",
+        "order": "1",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-39707-2020",
+      "title": "GB 39707—2020",
+      "frontmatter": {
+        "title": "GB 39707—2020",
+        "subtitle": "医疗废物处理处置污染控制标准",
+        "icon": "material/book",
+        "date": "2021-07-01",
+        "author": "生态环境部",
+        "order": "-20210701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-5085.7-2019",
+      "title": "GB 5085.7—2019",
+      "frontmatter": {
+        "title": "GB 5085.7—2019",
+        "subtitle": "危险废物鉴别标准 通则",
+        "icon": "material/book",
+        "date": "2020-01-01",
+        "author": "生态环境部",
+        "order": "2",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-18918-2002",
+      "title": "GB 18918—2002",
+      "frontmatter": {
+        "title": "GB 18918—2002",
+        "subtitle": "城镇污水处理厂污染物排放标准",
+        "icon": "material/book",
+        "date": "2003-07-01",
+        "author": "原国家环境保护总局",
+        "order": "-20030701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气",
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1259-2022",
+      "title": "HJ 1259—2022",
+      "frontmatter": {
+        "title": "HJ 1259—2022",
+        "subtitle": "危险废物管理计划和管理台账制定技术导则",
+        "icon": "material/book",
+        "date": "2022-10-01",
+        "author": "生态环境部",
+        "order": "-20221001",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1276-2022",
+      "title": "HJ 1276—2022",
+      "frontmatter": {
+        "title": "HJ 1276—2022",
+        "subtitle": "危险废物识别标志设置技术规范",
+        "icon": "material/book",
+        "date": "2023-07-01",
+        "author": "生态环境部",
+        "order": "-20230701",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-348-2022",
+      "title": "HJ 348—2022",
+      "frontmatter": {
+        "title": "HJ 348—2022",
+        "subtitle": "报废机动车拆解企业污染控制技术规范",
+        "icon": "material/book",
+        "date": "2022-10-01",
+        "author": "生态环境部",
+        "order": "-20221001",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-364-2022",
+      "title": "HJ 364—2022",
+      "frontmatter": {
+        "title": "HJ 364—2022",
+        "subtitle": "废塑料污染控制技术规范",
+        "icon": "material/book",
+        "date": "2022-05-31",
+        "author": "生态环境部",
+        "order": "-20220531",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "固废"
+        ]
+      }
+    }
+  ],
+  "危险废物": [
+    {
+      "link": "Laws/P1/EE/zhrmghggtfwwrhjfzf",
+      "title": "中华人民共和国固体废物污染环境防治法",
+      "frontmatter": {
+        "title": "中华人民共和国固体废物污染环境防治法",
+        "shortTitle": "固体废物污染环境防治法",
+        "icon": "material/file-document",
+        "date": "2020-09-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "5",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/fqdqdzcphsclgltl",
+      "title": "废弃电器电子产品回收处理管理条例",
+      "frontmatter": {
+        "title": "废弃电器电子产品回收处理管理条例",
+        "icon": "material/file-document",
+        "date": "2011-01-01",
+        "author": "国务院",
+        "order": "-20110101",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/wxfwjyxkzglbf",
+      "title": "危险废物经营许可证管理办法",
+      "frontmatter": {
+        "title": "危险废物经营许可证管理办法",
+        "icon": "material/file-document",
+        "date": "2016-02-06",
+        "author": "国务院",
+        "order": "-20160206",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/ylfwgltl",
+      "title": "医疗废物管理条例",
+      "frontmatter": {
+        "title": "医疗废物管理条例",
+        "icon": "material/file-document",
+        "date": "2003-06-16",
+        "author": "国务院",
+        "order": "-20030616",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/Others/wxhxpaqgltl",
+      "title": "危险化学品安全管理条例",
+      "frontmatter": {
+        "title": "危险化学品安全管理条例",
+        "icon": "material/file-document",
+        "date": "2011-12-01",
+        "author": "国务院",
+        "order": "-20111201",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/dzfwwrhjfzglbf",
+      "title": "电子废物污染环境防治管理办法",
+      "frontmatter": {
+        "title": "电子废物污染环境防治管理办法",
+        "icon": "material/file-document",
+        "date": "2008-02-01",
+        "author": "原国家环境保护总局",
+        "order": "-20080201",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/fqdqdzcpclzgxkglbf",
+      "title": "废弃电器电子产品处理资格许可管理办法",
+      "frontmatter": {
+        "title": "废弃电器电子产品处理资格许可管理办法",
+        "icon": "material/file-document",
+        "date": "2011-01-01",
+        "author": "原环境保护部",
+        "order": "-20110101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wxfwckhzglbf",
+      "title": "危险废物出口核准管理办法",
+      "frontmatter": {
+        "title": "危险废物出口核准管理办法",
+        "icon": "material/file-document",
+        "date": "2008-03-01",
+        "author": "原国家环境保护总局",
+        "order": "-20080301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wxfwzyglbf",
+      "title": "危险废物转移管理办法",
+      "frontmatter": {
+        "title": "危险废物转移管理办法",
+        "icon": "material/file-document",
+        "date": "2022-01-01",
+        "author": "生态环境部等",
+        "order": "-20220101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/ylfwglxzcfbf",
+      "title": "医疗废物管理行政处罚办法",
+      "frontmatter": {
+        "title": "医疗废物管理行政处罚办法",
+        "icon": "material/file-document",
+        "date": "2004-06-01",
+        "author": "原国家环境保护总局等",
+        "order": "-20040601",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法",
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/fqdqdzcpclml",
+      "title": "废弃电器电子产品处理目录",
+      "frontmatter": {
+        "title": "废弃电器电子产品处理目录",
+        "shortTitle": "废弃电器电子产品处理目录",
+        "icon": "material/file-table",
+        "date": "2011-01-01",
+        "author": "国家发改委等",
+        "order": "20110101",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/gjwxfwml",
+      "title": "国家危险废物名录（2025年版）",
+      "frontmatter": {
+        "title": "国家危险废物名录（2025年版）",
+        "shortTitle": "危废名录",
+        "icon": "material/file-table",
+        "date": "2025-01-01",
+        "author": "生态环境部等",
+        "order": "3",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/wxfwpcglqd",
+      "title": "危险废物排除管理清单（2026年版）",
+      "frontmatter": {
+        "title": "危险废物排除管理清单（2026年版）",
+        "shortTitle": "危险废物排除管理清单",
+        "icon": "material/file-table",
+        "date": "2026-01-09",
+        "author": "生态环境部",
+        "order": "260109",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/ylfwflml",
+      "title": "医疗废物分类目录（2021年版）",
+      "frontmatter": {
+        "title": "医疗废物分类目录（2021年版）",
+        "shortTitle": "医疗废物分类目录",
+        "icon": "material/file-table",
+        "date": "2021-12-01",
+        "author": "国家卫生健康委、生态环境部",
+        "order": "211201",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2580-2024",
+      "title": "DB44/T 2580—2024",
+      "frontmatter": {
+        "title": "DB44/T 2580—2024",
+        "subtitle": "危险废物集中收集单位规范化管理指南",
+        "icon": "material/book",
+        "date": "2025-03-10",
+        "author": "广东省生态环境厅",
+        "order": "-20250310",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2581-2024",
+      "title": "DB44/T 2581—2024",
+      "frontmatter": {
+        "title": "DB44/T 2581—2024",
+        "subtitle": "废电路板综合利用污染控制技术规范",
+        "icon": "material/book",
+        "date": "2025-03-10",
+        "author": "广东省生态环境厅",
+        "order": "-20250310",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-18484-2020",
+      "title": "GB 18484—2020",
+      "frontmatter": {
+        "title": "GB 18484—2020",
+        "subtitle": "危险废物焚烧污染控制标准",
+        "icon": "material/book",
+        "date": "2021-07-01",
+        "author": "生态环境部",
+        "order": "-20210701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-18597-2023",
+      "title": "GB 18597—2023",
+      "frontmatter": {
+        "title": "GB 18597—2023",
+        "subtitle": "危险废物贮存污染控制标准",
+        "icon": "material/book",
+        "date": "2023-07-01",
+        "author": "生态环境部等",
+        "order": "-20230701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-18598-2019",
+      "title": "GB 18598—2019",
+      "frontmatter": {
+        "title": "GB 18598—2019",
+        "subtitle": "危险废物填埋污染控制标准",
+        "icon": "material/book",
+        "date": "2020-06-01",
+        "author": "生态环境部",
+        "order": "-20200601",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-39707-2020",
+      "title": "GB 39707—2020",
+      "frontmatter": {
+        "title": "GB 39707—2020",
+        "subtitle": "医疗废物处理处置污染控制标准",
+        "icon": "material/book",
+        "date": "2021-07-01",
+        "author": "生态环境部",
+        "order": "-20210701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/S/GB-5085.7-2019",
+      "title": "GB 5085.7—2019",
+      "frontmatter": {
+        "title": "GB 5085.7—2019",
+        "subtitle": "危险废物鉴别标准 通则",
+        "icon": "material/book",
+        "date": "2020-01-01",
+        "author": "生态环境部",
+        "order": "2",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1259-2022",
+      "title": "HJ 1259—2022",
+      "frontmatter": {
+        "title": "HJ 1259—2022",
+        "subtitle": "危险废物管理计划和管理台账制定技术导则",
+        "icon": "material/book",
+        "date": "2022-10-01",
+        "author": "生态环境部",
+        "order": "-20221001",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1276-2022",
+      "title": "HJ 1276—2022",
+      "frontmatter": {
+        "title": "HJ 1276—2022",
+        "subtitle": "危险废物识别标志设置技术规范",
+        "icon": "material/book",
+        "date": "2023-07-01",
+        "author": "生态环境部",
+        "order": "-20230701",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "固废",
+          "危险废物"
+        ]
+      }
+    }
+  ],
+  "经济法": [
+    {
+      "link": "Laws/P1/EE/zhrmghghjbhsf",
+      "title": "中华人民共和国环境保护税法",
+      "frontmatter": {
+        "title": "中华人民共和国环境保护税法",
+        "shortTitle": "环境保护税法",
+        "icon": "material/file-document",
+        "date": "2018-10-26",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20181026",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "经济法",
+          "环保税"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P1/EE/zhrmghgqjsccjf",
+      "title": "中华人民共和国清洁生产促进法",
+      "frontmatter": {
+        "title": "中华人民共和国清洁生产促进法",
+        "shortTitle": "清洁生产促进法",
+        "icon": "material/file-document",
+        "date": "2012-07-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20120701",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "经济法"
+        ]
+      }
+    }
+  ],
+  "环保税": [
+    {
+      "link": "Laws/P1/EE/zhrmghghjbhsf",
+      "title": "中华人民共和国环境保护税法",
+      "frontmatter": {
+        "title": "中华人民共和国环境保护税法",
+        "shortTitle": "环境保护税法",
+        "icon": "material/file-document",
+        "date": "2018-10-26",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20181026",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "经济法",
+          "环保税"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/zhrmghghjbhsfsstl",
+      "title": "中华人民共和国环境保护税法实施条例",
+      "frontmatter": {
+        "title": "中华人民共和国环境保护税法实施条例",
+        "shortTitle": "环境保护税法实施条例",
+        "icon": "material/file-document",
+        "date": "2018-01-01",
+        "author": "国务院",
+        "order": "-20180101",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "环保税"
+        ]
+      }
+    }
+  ],
+  "环评": [
+    {
+      "link": "Laws/P1/EE/zhrmghghjyxpjf",
+      "title": "中华人民共和国环境影响评价法",
+      "frontmatter": {
+        "title": "中华人民共和国环境影响评价法",
+        "shortTitle": "环境影响评价法",
+        "icon": "material/file-document",
+        "date": "2018-12-29",
+        "author": "全国人民代表大会常务委员会",
+        "order": "2",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/jsxmhjbhgltl",
+      "title": "建设项目环境保护管理条例",
+      "frontmatter": {
+        "title": "建设项目环境保护管理条例",
+        "icon": "material/file-document",
+        "date": "2017-07-16",
+        "author": "国务院",
+        "order": "1",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsjsxmhjyxpjwjfjspbf",
+      "title": "广东省建设项目环境影响评价文件分级审批办法",
+      "frontmatter": {
+        "title": "广东省建设项目环境影响评价文件分级审批办法",
+        "shortTitle": "广东建设项目环评文件分级审批办法",
+        "icon": "material/file-document",
+        "date": "2024-01-19",
+        "author": "广东省人民政府",
+        "order": "-20240119",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/hjyxpjgzcybf",
+      "title": "环境影响评价公众参与办法",
+      "frontmatter": {
+        "title": "环境影响评价公众参与办法",
+        "icon": "material/file-document",
+        "date": "2019-01-01",
+        "author": "生态环境部",
+        "order": "-20190101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/hjyxpjsczjkglbf",
+      "title": "环境影响评价审查专家库管理办法",
+      "frontmatter": {
+        "title": "环境影响评价审查专家库管理办法",
+        "icon": "material/file-document",
+        "date": "2003-09-01",
+        "author": "原国家环境保护总局",
+        "order": "-20030901",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/jsxmhjyxbgsbzjdglbf",
+      "title": "建设项目环境影响报告书（表）编制监督管理办法",
+      "frontmatter": {
+        "title": "建设项目环境影响报告书（表）编制监督管理办法",
+        "icon": "material/file-document",
+        "date": "2019-11-01",
+        "author": "生态环境部",
+        "order": "-20191101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/jsxmhjyxdjbbaglbf",
+      "title": "建设项目环境影响登记表备案管理办法",
+      "frontmatter": {
+        "title": "建设项目环境影响登记表备案管理办法",
+        "icon": "material/file-document",
+        "date": "2017-01-01",
+        "author": "原环境保护部",
+        "order": "-20170101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/jsxmhjyxhpjglbf",
+      "title": "建设项目环境影响后评价管理办法（试行）",
+      "frontmatter": {
+        "title": "建设项目环境影响后评价管理办法（试行）",
+        "icon": "material/file-document",
+        "date": "2016-01-01",
+        "author": "原环境保护部",
+        "order": "-20160101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/jsxmhjyxpjwjfjspgd",
+      "title": "建设项目环境影响评价文件分级审批规定",
+      "frontmatter": {
+        "title": "建设项目环境影响评价文件分级审批规定",
+        "icon": "material/file-document",
+        "date": "2009-03-01",
+        "author": "原环境保护部",
+        "order": "-20090301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/jsxmhjyxpjxwzzylzgd",
+      "title": "建设项目环境影响评价行为准则与廉政规定",
+      "frontmatter": {
+        "title": "建设项目环境影响评价行为准则与廉政规定",
+        "icon": "material/file-document",
+        "date": "2006-01-01",
+        "author": "原国家环境保护总局",
+        "order": "-20060101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/zxghhjyxbgsscbf",
+      "title": "专项规划环境影响报告书审查办法",
+      "frontmatter": {
+        "title": "专项规划环境影响报告书审查办法",
+        "icon": "material/file-document",
+        "date": "2003-10-08",
+        "author": "原国家环境保护总局",
+        "order": "-20031008",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmhjyxpjqyxpglbf",
+      "title": "建设项目环境影响评价区域限批管理办法（试行）",
+      "frontmatter": {
+        "title": "建设项目环境影响评价区域限批管理办法（试行）",
+        "icon": "material/file-document",
+        "date": "2016-01-01",
+        "author": "原环境保护部",
+        "order": "-20160101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd",
+      "title": "建设项目重大变动清单（汇总）",
+      "frontmatter": {
+        "title": "建设项目重大变动清单（汇总）",
+        "icon": "material/file-document",
+        "date": "2025-08-29",
+        "author": "生态环境部",
+        "order": "-20250829",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评",
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/sthjfqgkglzxgd",
+      "title": "生态环境分区管控管理暂行规定",
+      "frontmatter": {
+        "title": "生态环境分区管控管理暂行规定",
+        "shortTitle": "生态环境分区管控管理暂行规定",
+        "icon": "material/file-document",
+        "date": "2024-07-06",
+        "author": "生态环境部",
+        "order": "-20240706",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/jsxmhjyxpjflglml",
+      "title": "建设项目环境影响评价分类管理名录（2021年版）",
+      "frontmatter": {
+        "title": "建设项目环境影响评价分类管理名录（2021年版）",
+        "shortTitle": "建设项目环评分类名录",
+        "icon": "material/file-table",
+        "date": "2021-01-01",
+        "author": "生态环境部",
+        "order": "1",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gyjsxmwpxjwfxwflsywtdyj",
+      "title": "关于建设项目“未批先建”违法行为法律适用问题的意见",
+      "frontmatter": {
+        "title": "关于建设项目“未批先建”违法行为法律适用问题的意见",
+        "shortTitle": "未批先建执法解释",
+        "icon": "material/file-document",
+        "date": "2018-02-22",
+        "author": "原环境保护部",
+        "order": "-180222",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gysthjzfzjsxmztzerdwtdzdyj",
+      "title": "关于生态环境执法中建设项目“总投资额”认定问题的指导意见（试行）",
+      "frontmatter": {
+        "title": "关于生态环境执法中建设项目“总投资额”认定问题的指导意见（试行）",
+        "shortTitle": "建设项目总投资额认定执法解释",
+        "icon": "material/file-document",
+        "date": "2018-08-27",
+        "author": "生态环境部等",
+        "order": "-180827",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gywyxtwfxwxzcfxjflgfxjsywtdyj",
+      "title": "关于“未验先投”违法行为行政处罚新旧法律规范衔接适用问题的意见",
+      "frontmatter": {
+        "title": "关于“未验先投”违法行为行政处罚新旧法律规范衔接适用问题的意见",
+        "shortTitle": "未验先投新旧法律衔接执法解释",
+        "icon": "material/file-document",
+        "date": "2019-10-17",
+        "author": "生态环境部",
+        "order": "-191017",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/gmjjhyflzs",
+      "title": "2017国民经济行业分类注释（按第1号修改单修订）",
+      "frontmatter": {
+        "title": "2017国民经济行业分类注释（按第1号修改单修订）",
+        "shortTitle": "2017国民经济行业分类注释",
+        "icon": "material/file-document",
+        "date": "2019-05-22",
+        "author": "国家统计局",
+        "order": "-20190522",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "环评"
+        ]
+      }
+    }
+  ],
+  "海洋": [
+    {
+      "link": "Laws/P1/EE/zhrmghghyhjbhf",
+      "title": "中华人民共和国海洋环境保护法",
+      "frontmatter": {
+        "title": "中华人民共和国海洋环境保护法",
+        "shortTitle": "海洋环境保护法",
+        "icon": "material/file-document",
+        "date": "2024-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20240101",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "海洋"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/fzhygcjsxmwrshhyhjgltl",
+      "title": "防治海洋工程建设项目污染损害海洋环境管理条例",
+      "frontmatter": {
+        "title": "防治海洋工程建设项目污染损害海洋环境管理条例",
+        "icon": "material/file-document",
+        "date": "2006-11-01",
+        "author": "国务院",
+        "order": "-20061101",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "海洋"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/jahyhjgnqglbf",
+      "title": "近岸海域环境功能区管理办法",
+      "frontmatter": {
+        "title": "近岸海域环境功能区管理办法",
+        "icon": "material/file-document",
+        "date": "2010-12-22",
+        "author": "原国家环境保护总局",
+        "order": "-20101222",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "海洋"
+        ]
+      }
+    }
+  ],
+  "水": [
+    {
+      "link": "Laws/P1/EE/zhrmghgswrfzf",
+      "title": "中华人民共和国水污染防治法",
+      "frontmatter": {
+        "title": "中华人民共和国水污染防治法",
+        "shortTitle": "水污染防治法",
+        "icon": "material/file-document",
+        "date": "2018-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "3",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/dxsgltl",
+      "title": "地下水管理条例",
+      "frontmatter": {
+        "title": "地下水管理条例",
+        "icon": "material/file-document",
+        "date": "2021-12-01",
+        "author": "国务院",
+        "order": "-20211201",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/fzcqwrhjgl",
+      "title": "防止拆船污染环境管理条例",
+      "frontmatter": {
+        "title": "防止拆船污染环境管理条例",
+        "icon": "material/file-document",
+        "date": "2017-03-01",
+        "author": "国务院",
+        "order": "-20170301",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/ghhjyxpjtl",
+      "title": "规划环境影响评价条例",
+      "frontmatter": {
+        "title": "规划环境影响评价条例",
+        "icon": "material/file-document",
+        "date": "2009-10-01",
+        "author": "国务院",
+        "order": "-20091001",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/Others/czpsywscltl",
+      "title": "城镇排水与污水处理条例",
+      "frontmatter": {
+        "title": "城镇排水与污水处理条例",
+        "icon": "material/file-document",
+        "date": "2014-01-01",
+        "author": "国务院",
+        "order": "-20140101",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdsswrfztl",
+      "title": "广东省水污染防治条例",
+      "frontmatter": {
+        "title": "广东省水污染防治条例",
+        "shortTitle": "广东水污染防治条例",
+        "icon": "material/file-document",
+        "date": "2021-09-29",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "2",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/jmstjlyszbhtl",
+      "title": "江门市潭江流域水质保护条例",
+      "frontmatter": {
+        "title": "江门市潭江流域水质保护条例",
+        "shortTitle": "江门潭江流域水质保护条例",
+        "icon": "material/file-document",
+        "date": "2016-12-01",
+        "author": "江门市人民代表大会常务委员会",
+        "order": "-161201",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "江",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsxsglbf",
+      "title": "广东省洗砂管理办法",
+      "frontmatter": {
+        "title": "广东省洗砂管理办法",
+        "shortTitle": "广东洗砂管理办法",
+        "icon": "material/file-document",
+        "date": "2023-04-01",
+        "author": "广东省人民政府",
+        "order": "-20230401",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/jmscspsglbf",
+      "title": "江门市城市排水管理办法",
+      "frontmatter": {
+        "title": "江门市城市排水管理办法",
+        "shortTitle": "江门城市排水管理办法",
+        "icon": "material/file-document",
+        "date": "2020-09-01",
+        "author": "江门市人民政府",
+        "order": "-200901",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/rhpwkjdglbf",
+      "title": "入河排污口监督管理办法",
+      "frontmatter": {
+        "title": "入河排污口监督管理办法",
+        "shortTitle": "入河排污口监督管理办法",
+        "icon": "material/file-document",
+        "date": "2025-01-01",
+        "author": "生态环境部",
+        "order": "-20250101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/yyssybhqwrfzglgd",
+      "title": "饮用水水源保护区污染防治管理规定",
+      "frontmatter": {
+        "title": "饮用水水源保护区污染防治管理规定",
+        "icon": "material/file-document",
+        "date": "2010-12-22",
+        "author": "原国家环境保护局等",
+        "order": "-20101222",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/gdsxjyscsyyssybhqml",
+      "title": "广东省县级以上城市饮用水水源保护区名录（2023年）",
+      "frontmatter": {
+        "title": "广东省县级以上城市饮用水水源保护区名录（2023年）",
+        "shortTitle": "广东饮用水水源保护区名录",
+        "icon": "material/file-table",
+        "date": "2023-09-04",
+        "author": "广东省生态环境厅等",
+        "order": "-20230904",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "粤",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/ydyhswrwml",
+      "title": "有毒有害水污染物名录",
+      "frontmatter": {
+        "title": "有毒有害水污染物名录",
+        "shortTitle": "有毒有害水污染物名录",
+        "icon": "material/file-table",
+        "date": "2025-05-25",
+        "author": "生态环境部等",
+        "order": "6",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gytbjgwfpwqxrdygwtdfh",
+      "title": "关于逃避监管违法排污情形认定有关问题的复函",
+      "frontmatter": {
+        "title": "关于逃避监管违法排污情形认定有关问题的复函",
+        "shortTitle": "逃避监管违法排污情形认定",
+        "icon": "material/file-document",
+        "date": "2016-10-27",
+        "author": "原环境保护部",
+        "order": "-161027",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/nchcstzlgzzn",
+      "title": "农村黑臭水体治理工作指南",
+      "frontmatter": {
+        "title": "农村黑臭水体治理工作指南",
+        "shortTitle": "农村黑臭水体治理工作指南",
+        "icon": "material/book",
+        "date": "2024-01-12",
+        "author": "生态环境部等",
+        "order": "-20240112",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "水",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/W/DB-44-1597-2015",
+      "title": "DB44/ 1597—2015",
+      "frontmatter": {
+        "title": "DB44/ 1597—2015",
+        "subtitle": "电镀水污染物排放标准",
+        "icon": "material/book",
+        "date": "2015-08-20",
+        "author": "原广东省环境保护厅",
+        "order": "-20150820",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/W/DB-44-1989-2017",
+      "title": "DB44/ 1989—2017",
+      "frontmatter": {
+        "title": "DB44/ 1989—2017",
+        "subtitle": "工业废水铊污染物排放标准",
+        "icon": "material/book",
+        "date": "2017-10-01",
+        "author": "原广东省环境保护厅",
+        "order": "-20171001",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/W/DB-44-2208-2019",
+      "title": "DB44/ 2208—2019",
+      "frontmatter": {
+        "title": "DB44/ 2208—2019",
+        "subtitle": "农村生活污水处理排放标准",
+        "icon": "material/book",
+        "date": "2020-01-01",
+        "author": "广东省生态环境厅",
+        "order": "-20200101",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/W/DB-44-2462-2024",
+      "title": "DB44/ 2462—2024",
+      "frontmatter": {
+        "title": "DB44/ 2462—2024",
+        "subtitle": "水产养殖尾水排放标准",
+        "icon": "material/book",
+        "date": "2024-05-01",
+        "author": "广东省生态环境厅",
+        "order": "-20240501",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "养殖",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/W/DB-44-26-2001",
+      "title": "DB44/ 26—2001",
+      "frontmatter": {
+        "title": "DB44/ 26—2001",
+        "subtitle": "水污染物排放限值",
+        "icon": "material/book",
+        "date": "2002-01-01",
+        "author": "原广东省环境保护局",
+        "order": "1",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/W/DB-44-613-2024",
+      "title": "DB44/ 613—2024",
+      "frontmatter": {
+        "title": "DB44/ 613—2024",
+        "subtitle": "畜禽养殖业污染物排放标准",
+        "icon": "material/book",
+        "date": "2024-05-01",
+        "author": "广东省生态环境厅",
+        "order": "-20240501",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "养殖",
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-30484-2013",
+      "title": "GB 30484—2013",
+      "frontmatter": {
+        "title": "GB 30484—2013",
+        "subtitle": "电池工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2014-03-01",
+        "author": "原环境保护部",
+        "order": "-20140301",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-31571-2015",
+      "title": "GB 31571—2015",
+      "frontmatter": {
+        "title": "GB 31571—2015",
+        "subtitle": "石油化学工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2015-07-01",
+        "author": "原环境保护部",
+        "order": "-20150701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-18466-2005",
+      "title": "GB 18466—2005",
+      "frontmatter": {
+        "title": "GB 18466—2005",
+        "subtitle": "医疗机构水污染物排放标准",
+        "icon": "material/book",
+        "date": "2006-01-01",
+        "author": "原国家环境保护总局",
+        "order": "-20060101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-18918-2002",
+      "title": "GB 18918—2002",
+      "frontmatter": {
+        "title": "GB 18918—2002",
+        "subtitle": "城镇污水处理厂污染物排放标准",
+        "icon": "material/book",
+        "date": "2003-07-01",
+        "author": "原国家环境保护总局",
+        "order": "-20030701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气",
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-19821-2005",
+      "title": "GB 19821—2005",
+      "frontmatter": {
+        "title": "GB 19821—2005",
+        "subtitle": "啤酒工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2006-01-01",
+        "author": "原国家环境保护总局",
+        "order": "-20060101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-21523-2024",
+      "title": "GB 21523—2024",
+      "frontmatter": {
+        "title": "GB 21523—2024",
+        "subtitle": "农药工业水污染物排放标准",
+        "icon": "material/book",
+        "date": "2024-12-01",
+        "author": "生态环境部",
+        "order": "-20241201",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-21900-2008",
+      "title": "GB 21900—2008",
+      "frontmatter": {
+        "title": "GB 21900—2008",
+        "subtitle": "电镀污染物排放标准",
+        "icon": "material/book",
+        "date": "2008-08-01",
+        "author": "原环境保护部",
+        "order": "-20080801",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-21902-2008",
+      "title": "GB 21902—2008",
+      "frontmatter": {
+        "title": "GB 21902—2008",
+        "subtitle": "合成革与人造革工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2008-08-01",
+        "author": "原环境保护部",
+        "order": "-20080801",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-26131-2010",
+      "title": "GB 26131—2010",
+      "frontmatter": {
+        "title": "GB 26131—2010",
+        "subtitle": "硝酸工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2011-03-01",
+        "author": "原环境保护部",
+        "order": "-20110301",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-26132-2010",
+      "title": "GB 26132—2010",
+      "frontmatter": {
+        "title": "GB 26132—2010",
+        "subtitle": "硫酸工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2011-03-01",
+        "author": "原环境保护部",
+        "order": "-20110301",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-26877-2011",
+      "title": "GB 26877—2011",
+      "frontmatter": {
+        "title": "GB 26877—2011",
+        "subtitle": "汽车维修业水污染物排放标准",
+        "icon": "material/book",
+        "date": "2012-01-01",
+        "author": "原环境保护部",
+        "order": "-20120101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-27631-2011",
+      "title": "GB 27631—2011",
+      "frontmatter": {
+        "title": "GB 27631—2011",
+        "subtitle": "发酵酒精和白酒工业水污染物排放标准",
+        "icon": "material/book",
+        "date": "2012-01-01",
+        "author": "原环境保护部",
+        "order": "-20120101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-30486-2013",
+      "title": "GB 30486—2013",
+      "frontmatter": {
+        "title": "GB 30486—2013",
+        "subtitle": "制革及毛皮加工工业水污染物排放标准",
+        "icon": "material/book",
+        "date": "2014-03-01",
+        "author": "原环境保护部",
+        "order": "-20140301",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-31572-2015",
+      "title": "GB 31572—2015",
+      "frontmatter": {
+        "title": "GB 31572—2015",
+        "subtitle": "合成树脂工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2015-07-01",
+        "author": "原环境保护部",
+        "order": "-20150701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-31573-2015",
+      "title": "GB 31573—2015",
+      "frontmatter": {
+        "title": "GB 31573—2015",
+        "subtitle": "无机化学工业污染物排放标准",
+        "icon": "material/book",
+        "date": "2015-07-01",
+        "author": "原环境保护部",
+        "order": "-20150701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-3838-2002",
+      "title": "GB 3838—2002",
+      "frontmatter": {
+        "title": "GB 3838—2002",
+        "subtitle": "地表水环境质量标准",
+        "icon": "material/book",
+        "date": "2002-06-01",
+        "author": "原国家环境保护总局",
+        "order": "2",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-39731-2020",
+      "title": "GB 39731—2020",
+      "frontmatter": {
+        "title": "GB 39731—2020",
+        "subtitle": "电子工业水污染物排放标准",
+        "icon": "material/book",
+        "date": "2021-07-01",
+        "author": "生态环境部",
+        "order": "-20210701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-4287-2012",
+      "title": "GB 4287—2012",
+      "frontmatter": {
+        "title": "GB 4287—2012",
+        "subtitle": "纺织染整工业水污染物排放标准",
+        "icon": "material/book",
+        "date": "2013-01-01",
+        "author": "原环境保护部",
+        "order": "-20130101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-8978-1996",
+      "title": "GB 8978—1996",
+      "frontmatter": {
+        "title": "GB 8978—1996",
+        "subtitle": "污水综合排放标准",
+        "icon": "material/book",
+        "date": "1998-01-01",
+        "author": "原国家环境保护总局",
+        "order": "1",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "水"
+        ]
+      }
+    }
+  ],
+  "土壤": [
+    {
+      "link": "Laws/P1/EE/zhrmghgtrwrfzf",
+      "title": "中华人民共和国土壤污染防治法",
+      "frontmatter": {
+        "title": "中华人民共和国土壤污染防治法",
+        "shortTitle": "土壤污染防治法",
+        "icon": "material/file-document",
+        "date": "2019-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20190101",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdssszhrmghgtrwrfzfbf",
+      "title": "广东省实施《中华人民共和国土壤污染防治法》办法",
+      "frontmatter": {
+        "title": "广东省实施《中华人民共和国土壤污染防治法》办法",
+        "shortTitle": "广东实施《土壤污染防治法》办法",
+        "icon": "material/file-document",
+        "date": "2019-03-01",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "-20190301",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/gkydtrhjglbf",
+      "title": "工矿用地土壤环境管理办法（试行）",
+      "frontmatter": {
+        "title": "工矿用地土壤环境管理办法（试行）",
+        "icon": "material/file-document",
+        "date": "2018-08-01",
+        "author": "生态环境部",
+        "order": "-20180801",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/nydtrhjglbf",
+      "title": "农用地土壤环境管理办法（试行）",
+      "frontmatter": {
+        "title": "农用地土壤环境管理办法（试行）",
+        "icon": "material/file-document",
+        "date": "2017-11-01",
+        "author": "原环境保护部等",
+        "order": "-20171101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wkwrhjfzglbf",
+      "title": "尾矿污染环境防治管理办法",
+      "frontmatter": {
+        "title": "尾矿污染环境防治管理办法",
+        "icon": "material/file-document",
+        "date": "2022-07-01",
+        "author": "生态环境部",
+        "order": "-20220701",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "固废",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wrdktrhjglbf",
+      "title": "污染地块土壤环境管理办法",
+      "frontmatter": {
+        "title": "污染地块土壤环境管理办法",
+        "icon": "material/file-document",
+        "date": "2017-07-01",
+        "author": "原环境保护部",
+        "order": "-20170701",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/zdkzdtrydyhwzml",
+      "title": "重点控制的土壤有毒有害物质名录",
+      "frontmatter": {
+        "title": "重点控制的土壤有毒有害物质名录",
+        "shortTitle": "土壤有毒有害物质名录",
+        "icon": "material/file-table",
+        "date": "2025-09-18",
+        "author": "生态环境部等",
+        "order": "250918",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/nchcstzlgzzn",
+      "title": "农村黑臭水体治理工作指南",
+      "frontmatter": {
+        "title": "农村黑臭水体治理工作指南",
+        "shortTitle": "农村黑臭水体治理工作指南",
+        "icon": "material/book",
+        "date": "2024-01-12",
+        "author": "生态环境部等",
+        "order": "-20240112",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "水",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2417-2023",
+      "title": "DB44/T 2417—2023",
+      "frontmatter": {
+        "title": "DB44/T 2417—2023",
+        "subtitle": "建设用地土壤污染修复效果评估监测质量控制技术规范",
+        "icon": "material/book",
+        "date": "2023-06-28",
+        "author": "广东省生态环境厅",
+        "order": "-20230628",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2608-2024",
+      "title": "DB44/T 2608—2024",
+      "frontmatter": {
+        "title": "DB44/T 2608—2024",
+        "subtitle": "伴生放射性矿开发利用场地土壤放射性污染状况调查技术导则",
+        "icon": "material/book",
+        "date": "2025-04-23",
+        "author": "广东省生态环境厅",
+        "order": "-20250423",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "辐射",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/Others/GB-15618-2018",
+      "title": "GB 15618—2018",
+      "frontmatter": {
+        "title": "GB 15618—2018",
+        "subtitle": "农用地土壤污染风险管控标准（试行）",
+        "icon": "material/book",
+        "date": "2018-08-01",
+        "author": "生态环境部",
+        "order": "-20180801",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/Others/GB-36600-2018",
+      "title": "GB 36600—2018",
+      "frontmatter": {
+        "title": "GB 36600—2018",
+        "subtitle": "建设用地土壤污染风险管控标准（试行）",
+        "icon": "material/book",
+        "date": "2018-08-01",
+        "author": "生态环境部",
+        "order": "-20180801",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1231-2022",
+      "title": "HJ 1231—2022",
+      "frontmatter": {
+        "title": "HJ 1231—2022",
+        "subtitle": "土壤环境 词汇",
+        "icon": "material/book",
+        "date": "2022-08-01",
+        "author": "生态环境部",
+        "order": "-20220801",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "土壤"
+        ]
+      }
+    }
+  ],
+  "宪法相关法": [
+    {
+      "link": "Laws/P1/Others/zhrmghglff",
+      "title": "中华人民共和国立法法",
+      "frontmatter": {
+        "title": "中华人民共和国立法法",
+        "shortTitle": "立法法",
+        "icon": "material/file-document",
+        "date": "2023-03-15",
+        "author": "全国人民代表大会",
+        "order": "1",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "宪法相关法"
+        ]
+      }
+    }
+  ],
+  "应急": [
+    {
+      "link": "Laws/P1/Others/zhrmghgtfsjydf",
+      "title": "中华人民共和国突发事件应对法",
+      "frontmatter": {
+        "title": "中华人民共和国突发事件应对法",
+        "shortTitle": "突发事件应对法",
+        "icon": "material/file-document",
+        "date": "2024-11-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "-20241101",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "应急"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/Others/tfsjyjyaglbf",
+      "title": "突发事件应急预案管理办法",
+      "frontmatter": {
+        "title": "突发事件应急预案管理办法",
+        "icon": "material/file-document",
+        "date": "2024-01-31",
+        "author": "国务院",
+        "order": "-20240131",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "应急"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/tfhjsjdcclbf",
+      "title": "突发环境事件调查处理办法",
+      "frontmatter": {
+        "title": "突发环境事件调查处理办法",
+        "icon": "material/file-document",
+        "date": "2015-03-01",
+        "author": "原环境保护部",
+        "order": "-20150301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "应急"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/tfhjsjxxbgbf",
+      "title": "突发环境事件信息报告办法",
+      "frontmatter": {
+        "title": "突发环境事件信息报告办法",
+        "icon": "material/file-document",
+        "date": "2011-05-01",
+        "author": "原环境保护部",
+        "order": "-20110501",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "应急"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/tfhjsjyjglbf",
+      "title": "突发环境事件应急管理办法",
+      "frontmatter": {
+        "title": "突发环境事件应急管理办法",
+        "icon": "material/file-document",
+        "date": "2015-06-05",
+        "author": "原环境保护部",
+        "order": "-20150605",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "应急"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2520-2024",
+      "title": "DB44/T 2520—2024",
+      "frontmatter": {
+        "title": "DB44/T 2520—2024",
+        "subtitle": "核应急物资储备标准",
+        "icon": "material/book",
+        "date": "2024-09-07",
+        "author": "广东省生态环境厅",
+        "order": "-20240907",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "应急"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-589-2021",
+      "title": "HJ 589—2021",
+      "frontmatter": {
+        "title": "HJ 589—2021",
+        "subtitle": "突发环境事件应急监测技术规范",
+        "icon": "material/book",
+        "date": "2022-03-01",
+        "author": "生态环境部",
+        "order": "-20220301",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "应急",
+          "监测"
+        ]
+      }
+    }
+  ],
+  "执法": [
+    {
+      "link": "Laws/P1/Others/zhrmghgxzcff",
+      "title": "中华人民共和国行政处罚法",
+      "frontmatter": {
+        "title": "中华人民共和国行政处罚法",
+        "shortTitle": "行政处罚法",
+        "icon": "material/file-document",
+        "date": "2021-07-15",
+        "author": "全国人民代表大会",
+        "order": "2",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/Others/xzzfjdtl",
+      "title": "行政执法监督条例",
+      "frontmatter": {
+        "title": "行政执法监督条例",
+        "icon": "material/file-document",
+        "date": "2026-02-01",
+        "author": "国务院",
+        "order": "-20260201",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/Others/xzzfjgyssxfzajdgd",
+      "title": "行政执法机关移送涉嫌犯罪案件的规定",
+      "frontmatter": {
+        "title": "行政执法机关移送涉嫌犯罪案件的规定",
+        "icon": "material/file-document",
+        "date": "2020-08-07",
+        "author": "国务院",
+        "order": "-20200807",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsfxczfglbf",
+      "title": "广东省非现场执法管理办法",
+      "frontmatter": {
+        "title": "广东省非现场执法管理办法",
+        "shortTitle": "广东非现场执法管理办法",
+        "icon": "material/file-document",
+        "date": "2025-05-01",
+        "author": "广东省人民政府",
+        "order": "-20250501",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsxzcftzcxssbf",
+      "title": "广东省行政处罚听证程序实施办法",
+      "frontmatter": {
+        "title": "广东省行政处罚听证程序实施办法",
+        "shortTitle": "广东行政处罚听证程序实施办法",
+        "icon": "material/file-document",
+        "date": "2022-06-01",
+        "author": "广东省人民政府",
+        "order": "-20220601",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsxzzfgsbf",
+      "title": "广东省行政执法公示办法",
+      "frontmatter": {
+        "title": "广东省行政执法公示办法",
+        "shortTitle": "广东行政执法公示办法",
+        "icon": "material/file-document",
+        "date": "2021-05-21",
+        "author": "广东省人民政府",
+        "order": "-20210521",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsxzzfqgcjlbf",
+      "title": "广东省行政执法全过程记录办法",
+      "frontmatter": {
+        "title": "广东省行政执法全过程记录办法",
+        "shortTitle": "广东行政执法全过程记录办法",
+        "icon": "material/file-document",
+        "date": "2021-05-21",
+        "author": "广东省人民政府",
+        "order": "-20210521",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdszdxzzfjdfzshbf",
+      "title": "广东省重大行政执法决定法制审核办法",
+      "frontmatter": {
+        "title": "广东省重大行政执法决定法制审核办法",
+        "shortTitle": "广东重大行政执法决定法制审核办法",
+        "icon": "material/file-document",
+        "date": "2021-05-21",
+        "author": "广东省人民政府",
+        "order": "-20210521",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmssthjjzfgcqgzzd",
+      "title": "江门市生态环境局执法观察期工作制度（试行）",
+      "frontmatter": {
+        "title": "江门市生态环境局执法观察期工作制度（试行）",
+        "shortTitle": "江门生态环境执法观察期工作制度（试行）",
+        "icon": "material/file-document",
+        "date": "2024-07-01",
+        "author": "江门市生态环境局",
+        "order": "-240701",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/hjbhzgbmssarlxcfbf",
+      "title": "环境保护主管部门实施按日连续处罚办法",
+      "frontmatter": {
+        "title": "环境保护主管部门实施按日连续处罚办法",
+        "shortTitle": "环保部门实施按日连续处罚办法",
+        "icon": "material/file-document",
+        "date": "2015-01-01",
+        "author": "原环境保护部",
+        "order": "-20150101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/hjbhzgbmsscfkybf",
+      "title": "环境保护主管部门实施查封、扣押办法",
+      "frontmatter": {
+        "title": "环境保护主管部门实施查封、扣押办法",
+        "shortTitle": "环保部门实施查封、扣押办法",
+        "icon": "material/file-document",
+        "date": "2015-01-01",
+        "author": "原环境保护部",
+        "order": "-20150101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法",
+          "行政强制"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/hjbhzgbmssxzsctczzbf",
+      "title": "环境保护主管部门实施限制生产、停产整治办法",
+      "frontmatter": {
+        "title": "环境保护主管部门实施限制生产、停产整治办法",
+        "shortTitle": "环保部门实施限制生产、停产整治办法",
+        "icon": "material/file-document",
+        "date": "2015-01-01",
+        "author": "原环境保护部",
+        "order": "-20150101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/sthjxzcfbf",
+      "title": "生态环境行政处罚办法",
+      "frontmatter": {
+        "title": "生态环境行政处罚办法",
+        "shortTitle": "生态环境行政处罚办法",
+        "icon": "material/file-document",
+        "date": "2023-07-01",
+        "author": "生态环境部",
+        "order": "1",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/ylfwglxzcfbf",
+      "title": "医疗废物管理行政处罚办法",
+      "frontmatter": {
+        "title": "医疗废物管理行政处罚办法",
+        "icon": "material/file-document",
+        "date": "2004-06-01",
+        "author": "原国家环境保护总局等",
+        "order": "-20040601",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法",
+          "固废",
+          "危险废物"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/hjbhxzzfyxssfxjgzbf",
+      "title": "环境保护行政执法与刑事司法衔接工作办法",
+      "frontmatter": {
+        "title": "环境保护行政执法与刑事司法衔接工作办法",
+        "shortTitle": "环保行政执法与刑事司法衔接工作办法",
+        "icon": "material/file-document",
+        "date": "2017-01-25",
+        "author": "原环境保护部等",
+        "order": "-20170125",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法",
+          "刑事"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/sthjwfajgpdbglbf",
+      "title": "生态环境违法案件挂牌督办管理办法",
+      "frontmatter": {
+        "title": "生态环境违法案件挂牌督办管理办法",
+        "shortTitle": "生态环境违法案件挂牌督办管理办法",
+        "icon": "material/file-document",
+        "date": "2025-05-26",
+        "author": "生态环境部",
+        "order": "-20250526",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/sthjxzcftzcxgd",
+      "title": "生态环境行政处罚听证程序规定",
+      "frontmatter": {
+        "title": "生态环境行政处罚听证程序规定",
+        "shortTitle": "生态环境行政处罚听证程序规定",
+        "icon": "material/file-document",
+        "date": "2025-03-01",
+        "author": "生态环境部",
+        "order": "-20250301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/sthjzfryxwgf",
+      "title": "生态环境执法人员行为规范",
+      "frontmatter": {
+        "title": "生态环境执法人员行为规范",
+        "shortTitle": "生态环境执法人员行为规范",
+        "icon": "material/file-document",
+        "date": "2024-01-03",
+        "author": "生态环境部",
+        "order": "-20240103",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/xzzgbmyssyxzjlhjwfajzxbf",
+      "title": "行政主管部门移送适用行政拘留环境违法案件暂行办法",
+      "frontmatter": {
+        "title": "行政主管部门移送适用行政拘留环境违法案件暂行办法",
+        "icon": "material/file-document",
+        "date": "2015-01-01",
+        "author": "公安部、原环境保护部等",
+        "order": "-20150101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gyblhjwrxsajygwtzthjy",
+      "title": "关于办理环境污染刑事案件有关问题座谈会纪要",
+      "frontmatter": {
+        "title": "关于办理环境污染刑事案件有关问题座谈会纪要",
+        "shortTitle": "环境污染刑事案件座谈会纪要",
+        "icon": "material/file-document",
+        "date": "2019-02-20",
+        "author": "最高人民法院等",
+        "order": "-20190220",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "刑事"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gyecqtcbpfflsyygwtdfh",
+      "title": "关于恶臭气体超标排放法律适用有关问题的复函",
+      "frontmatter": {
+        "title": "关于恶臭气体超标排放法律适用有关问题的复函",
+        "shortTitle": "恶臭气体超标排放法律适用",
+        "icon": "material/file-document",
+        "date": "2020-03-20",
+        "author": "生态环境部办公厅",
+        "order": "-200320",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gyjsxmwpxjwfxwflsywtdyj",
+      "title": "关于建设项目“未批先建”违法行为法律适用问题的意见",
+      "frontmatter": {
+        "title": "关于建设项目“未批先建”违法行为法律适用问题的意见",
+        "shortTitle": "未批先建执法解释",
+        "icon": "material/file-document",
+        "date": "2018-02-22",
+        "author": "原环境保护部",
+        "order": "-180222",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gysthjzfzjsxmztzerdwtdzdyj",
+      "title": "关于生态环境执法中建设项目“总投资额”认定问题的指导意见（试行）",
+      "frontmatter": {
+        "title": "关于生态环境执法中建设项目“总投资额”认定问题的指导意见（试行）",
+        "shortTitle": "建设项目总投资额认定执法解释",
+        "icon": "material/file-document",
+        "date": "2018-08-27",
+        "author": "生态环境部等",
+        "order": "-180827",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gytbjgwfpwqxrdygwtdfh",
+      "title": "关于逃避监管违法排污情形认定有关问题的复函",
+      "frontmatter": {
+        "title": "关于逃避监管违法排污情形认定有关问题的复函",
+        "shortTitle": "逃避监管违法排污情形认定",
+        "icon": "material/file-document",
+        "date": "2016-10-27",
+        "author": "原环境保护部",
+        "order": "-161027",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gywyxtwfxwxzcfxjflgfxjsywtdyj",
+      "title": "关于“未验先投”违法行为行政处罚新旧法律规范衔接适用问题的意见",
+      "frontmatter": {
+        "title": "关于“未验先投”违法行为行政处罚新旧法律规范衔接适用问题的意见",
+        "shortTitle": "未验先投新旧法律衔接执法解释",
+        "icon": "material/file-document",
+        "date": "2019-10-17",
+        "author": "生态环境部",
+        "order": "-191017",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/zgrmfygyxzsszjrgwtdgd",
+      "title": "最高人民法院关于行政诉讼证据若干问题的规定",
+      "frontmatter": {
+        "title": "最高人民法院关于行政诉讼证据若干问题的规定",
+        "shortTitle": "行政诉讼证据司法解释",
+        "icon": "material/file-document",
+        "date": "2002-10-01",
+        "author": "最高人民法院",
+        "order": "-20021001",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "行政诉讼",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/zgrmfyzgrmjcygyblhjwrxsajsyflrgwtdjs",
+      "title": "最高人民法院 最高人民检察院关于办理环境污染刑事案件适用法律若干问题的解释",
+      "frontmatter": {
+        "title": "最高人民法院 最高人民检察院关于办理环境污染刑事案件适用法律若干问题的解释",
+        "shortTitle": "环境污染刑事案件司法解释",
+        "icon": "material/file-document",
+        "date": "2023-08-15",
+        "author": "最高人民法院、最高人民检察院",
+        "order": "-20230815",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "刑事"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/gdbycfml",
+      "title": "广东省生态环境不予行政处罚的轻微违法行为目录",
+      "frontmatter": {
+        "title": "广东省生态环境不予行政处罚的轻微违法行为目录",
+        "shortTitle": "广东轻微违法不予处罚目录",
+        "icon": "material/file-table",
+        "date": "2022-01-01",
+        "author": "广东省生态环境厅",
+        "order": "-6",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/gdclb",
+      "title": "广东省生态环境违法行为行政处罚罚款金额裁量表",
+      "frontmatter": {
+        "title": "广东省生态环境违法行为行政处罚罚款金额裁量表",
+        "shortTitle": "广东行政处罚裁量表",
+        "icon": "material/file-table",
+        "date": "2022-01-01",
+        "author": "广东省生态环境厅",
+        "order": "-7",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/gdssthjxzcfzyclqgd",
+      "title": "广东省生态环境行政处罚自由裁量权规定",
+      "frontmatter": {
+        "title": "广东省生态环境行政处罚自由裁量权规定",
+        "shortTitle": "广东自由裁量权规定",
+        "icon": "material/file-document",
+        "date": "2022-01-01",
+        "author": "广东省生态环境厅",
+        "order": "-8",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmbycfzy",
+      "title": "江门市生态环境依法不予行政处罚的轻微环境违法行为工作流程指引",
+      "frontmatter": {
+        "title": "江门市生态环境依法不予行政处罚的轻微环境违法行为工作流程指引",
+        "shortTitle": "江门轻微违法不予处罚指引",
+        "icon": "material/file-document",
+        "date": "2023-03-01",
+        "author": "江门市生态环境局",
+        "order": "-2",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmclb",
+      "title": "江门市生态环境违法行为行政处罚自由裁量权裁量标准参照表",
+      "frontmatter": {
+        "title": "江门市生态环境违法行为行政处罚自由裁量权裁量标准参照表",
+        "shortTitle": "江门行政处罚裁量表",
+        "icon": "material/file-table",
+        "date": "2023-03-01",
+        "author": "江门市生态环境局",
+        "order": "-4",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmsssgdssthjxzcfzyclqgdxz",
+      "title": "江门市实施《广东省生态环境行政处罚自由裁量权规定》细则",
+      "frontmatter": {
+        "title": "江门市实施《广东省生态环境行政处罚自由裁量权规定》细则",
+        "shortTitle": "江门实施省裁量权规定细则",
+        "icon": "material/file-document",
+        "date": "2023-03-01",
+        "author": "江门市生态环境局",
+        "order": "-5",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmssthjyfbyxzcfdqwhjwfxwqd",
+      "title": "江门市生态环境依法不予行政处罚的轻微环境违法行为清单",
+      "frontmatter": {
+        "title": "江门市生态环境依法不予行政处罚的轻微环境违法行为清单",
+        "shortTitle": "江门轻微违法不予处罚清单",
+        "icon": "material/file-table",
+        "date": "2025-05-15",
+        "author": "江门市生态环境局",
+        "order": "-3",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmwfqydqcnzy",
+      "title": "江门市生态环境违法企业主动公开道歉承诺工作指引",
+      "frontmatter": {
+        "title": "江门市生态环境违法企业主动公开道歉承诺工作指引",
+        "shortTitle": "江门违法企业道歉承诺指引",
+        "icon": "material/file-document",
+        "date": "2023-03-01",
+        "author": "江门市生态环境局",
+        "order": "-1",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/hjxsydwzfw",
+      "title": "关于环境污染刑事案件中“有毒物质”的范围",
+      "frontmatter": {
+        "title": "关于环境污染刑事案件中“有毒物质”的范围",
+        "shortTitle": "关于环境污染刑事案件中“有毒物质”的范围",
+        "icon": "material/file-document",
+        "date": "2021-03-04",
+        "author": "VOCs前沿",
+        "order": "-20210304",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "执法",
+          "刑事"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/sthjxzzfwszzzn",
+      "title": "生态环境行政执法文书制作指南",
+      "frontmatter": {
+        "title": "生态环境行政执法文书制作指南",
+        "shortTitle": "生态环境行政执法文书制作指南",
+        "icon": "material/book",
+        "date": "2024-04-01",
+        "author": "生态环境部",
+        "order": "-20240401",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "执法"
+        ]
+      }
+    }
+  ],
+  "行政复议": [
+    {
+      "link": "Laws/P1/Others/zhrmghgxzfyf",
+      "title": "中华人民共和国行政复议法",
+      "frontmatter": {
+        "title": "中华人民共和国行政复议法",
+        "shortTitle": "行政复议法",
+        "icon": "material/file-document",
+        "date": "2024-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "5",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "行政复议"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/sthjbxzfybf",
+      "title": "生态环境部行政复议办法",
+      "frontmatter": {
+        "title": "生态环境部行政复议办法",
+        "shortTitle": "生态环境部行政复议办法",
+        "icon": "material/file-document",
+        "date": "2024-06-01",
+        "author": "生态环境部",
+        "order": "-20240601",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "行政复议"
+        ]
+      }
+    }
+  ],
+  "行政强制": [
+    {
+      "link": "Laws/P1/Others/zhrmghgxzqzf",
+      "title": "中华人民共和国行政强制法",
+      "frontmatter": {
+        "title": "中华人民共和国行政强制法",
+        "shortTitle": "行政强制法",
+        "icon": "material/file-document",
+        "date": "2012-01-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "6",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政法",
+          "行政强制"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/hjbhzgbmsscfkybf",
+      "title": "环境保护主管部门实施查封、扣押办法",
+      "frontmatter": {
+        "title": "环境保护主管部门实施查封、扣押办法",
+        "shortTitle": "环保部门实施查封、扣押办法",
+        "icon": "material/file-document",
+        "date": "2015-01-01",
+        "author": "原环境保护部",
+        "order": "-20150101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法",
+          "行政强制"
+        ]
+      }
+    }
+  ],
+  "行政诉讼": [
+    {
+      "link": "Laws/P1/Others/zhrmghgxzssf",
+      "title": "中华人民共和国行政诉讼法",
+      "frontmatter": {
+        "title": "中华人民共和国行政诉讼法",
+        "shortTitle": "行政诉讼法",
+        "icon": "material/file-document",
+        "date": "2017-07-01",
+        "author": "全国人民代表大会常务委员会",
+        "order": "4",
+        "category": [
+          "法律"
+        ],
+        "tags": [
+          "行政诉讼"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/zgrmfygysyzhrmghgxzssfdjs",
+      "title": "最高人民法院关于适用《中华人民共和国行政诉讼法》的解释",
+      "frontmatter": {
+        "title": "最高人民法院关于适用《中华人民共和国行政诉讼法》的解释",
+        "shortTitle": "行政诉讼法司法解释",
+        "icon": "material/file-document",
+        "date": "2018-02-08",
+        "author": "最高人民法院",
+        "order": "-20180208",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "行政诉讼"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/zgrmfygyxzsszjrgwtdgd",
+      "title": "最高人民法院关于行政诉讼证据若干问题的规定",
+      "frontmatter": {
+        "title": "最高人民法院关于行政诉讼证据若干问题的规定",
+        "shortTitle": "行政诉讼证据司法解释",
+        "icon": "material/file-document",
+        "date": "2002-10-01",
+        "author": "最高人民法院",
+        "order": "-20021001",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "行政诉讼",
+          "执法"
+        ]
+      }
+    }
+  ],
+  "排污许可": [
+    {
+      "link": "Laws/P2/EE/pwxkgltl",
+      "title": "排污许可管理条例",
+      "frontmatter": {
+        "title": "排污许可管理条例",
+        "icon": "material/file-document",
+        "date": "2021-03-01",
+        "author": "国务院",
+        "order": "2",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "排污许可"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/pwxkglbf",
+      "title": "排污许可管理办法",
+      "frontmatter": {
+        "title": "排污许可管理办法",
+        "shortTitle": "排污许可管理办法",
+        "icon": "material/file-document",
+        "date": "2024-07-01",
+        "author": "生态环境部",
+        "order": "2",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "排污许可"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/gdwrypwxkflglml",
+      "title": "固定污染源排污许可分类管理名录（2019年版）",
+      "frontmatter": {
+        "title": "固定污染源排污许可分类管理名录（2019年版）",
+        "shortTitle": "排污许可分类名录",
+        "icon": "material/file-table",
+        "date": "2019-12-20",
+        "author": "生态环境部",
+        "order": "2",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "排污许可"
+        ]
+      }
+    }
+  ],
+  "其他": [
+    {
+      "link": "Laws/P2/EE/qgwrypctl",
+      "title": "全国污染源普查条例",
+      "frontmatter": {
+        "title": "全国污染源普查条例",
+        "icon": "material/file-document",
+        "date": "2007-10-09",
+        "author": "国务院",
+        "order": "-20071009",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/stbhbctl",
+      "title": "生态保护补偿条例",
+      "frontmatter": {
+        "title": "生态保护补偿条例",
+        "icon": "material/file-document",
+        "date": "2024-06-01",
+        "author": "国务院",
+        "order": "-20240601",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/EE/sthjbhdcgztl",
+      "title": "生态环境保护督察工作条例",
+      "frontmatter": {
+        "title": "生态环境保护督察工作条例",
+        "icon": "material/file-document",
+        "date": "2025-04-28",
+        "author": "中共中央、国务院",
+        "order": "-20250428",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P2/Others/dfdzldgbsthjbhzrzgd",
+      "title": "地方党政领导干部生态环境保护责任制规定（试行）",
+      "frontmatter": {
+        "title": "地方党政领导干部生态环境保护责任制规定（试行）",
+        "icon": "material/file-document",
+        "date": "2025-07-18",
+        "author": "中共中央、国务院",
+        "order": "-20250718",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdssthjjytl",
+      "title": "广东省生态环境教育条例",
+      "frontmatter": {
+        "title": "广东省生态环境教育条例",
+        "shortTitle": "广东生态环境教育条例",
+        "icon": "material/file-document",
+        "date": "2024-01-01",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "-20240101",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/hjbhdaglbf",
+      "title": "环境保护档案管理办法",
+      "frontmatter": {
+        "title": "环境保护档案管理办法",
+        "icon": "material/file-document",
+        "date": "2017-03-01",
+        "author": "原环境保护部等",
+        "order": "-20170301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/hjjgzddwmlglbf",
+      "title": "环境监管重点单位名录管理办法",
+      "frontmatter": {
+        "title": "环境监管重点单位名录管理办法",
+        "icon": "material/file-document",
+        "date": "2023-01-01",
+        "author": "生态环境部",
+        "order": "-20230101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/sthjbzglbf",
+      "title": "生态环境标准管理办法",
+      "frontmatter": {
+        "title": "生态环境标准管理办法",
+        "icon": "material/file-document",
+        "date": "2021-02-01",
+        "author": "生态环境部",
+        "order": "-20210201",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/sthjtjglbf",
+      "title": "生态环境统计管理办法",
+      "frontmatter": {
+        "title": "生态环境统计管理办法",
+        "icon": "material/file-document",
+        "date": "2023-01-18",
+        "author": "生态环境部",
+        "order": "-20230118",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/xhxwzhjgldjbf",
+      "title": "新化学物质环境管理登记办法",
+      "frontmatter": {
+        "title": "新化学物质环境管理登记办法",
+        "icon": "material/file-document",
+        "date": "2021-01-01",
+        "author": "生态环境部",
+        "order": "-20210101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/sthjbgcjszxglbf",
+      "title": "生态环境部工程技术中心管理办法",
+      "frontmatter": {
+        "title": "生态环境部工程技术中心管理办法",
+        "shortTitle": "生态环境部工程技术中心管理办法",
+        "icon": "material/book",
+        "date": "2025-08-12",
+        "author": "生态环境部",
+        "order": "-20250812",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/sthjbzdsysglbf",
+      "title": "生态环境部重点实验室管理办法",
+      "frontmatter": {
+        "title": "生态环境部重点实验室管理办法",
+        "shortTitle": "生态环境部重点实验室管理办法",
+        "icon": "material/book",
+        "date": "2025-08-12",
+        "author": "生态环境部",
+        "order": "-20250812",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/stwmjssfqstgyyqglbf",
+      "title": "生态文明建设示范区（生态工业园区）管理办法",
+      "frontmatter": {
+        "title": "生态文明建设示范区（生态工业园区）管理办法",
+        "shortTitle": "生态文明建设示范区（生态工业园区）管理办法",
+        "icon": "material/book",
+        "date": "2026-01-26",
+        "author": "生态环境部等",
+        "order": "-20260126",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/hjbhzhml",
+      "title": "环境保护综合名录（2021年版）",
+      "frontmatter": {
+        "title": "环境保护综合名录（2021年版）",
+        "shortTitle": "环保综合名录",
+        "icon": "material/file-table",
+        "date": "2021-10-25",
+        "author": "生态环境部办公厅",
+        "order": "211025",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/hjyjksjzddyb",
+      "title": "环境与健康数据字典（第一版）",
+      "frontmatter": {
+        "title": "环境与健康数据字典（第一版）",
+        "shortTitle": "环境与健康数据字典",
+        "icon": "material/book",
+        "date": "2018-05-28",
+        "author": "生态环境部",
+        "order": "-20180528",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/pfytjdccpwhsffhxssc",
+      "title": "排放源统计调查产排污核算方法和系数手册",
+      "frontmatter": {
+        "title": "排放源统计调查产排污核算方法和系数手册",
+        "shortTitle": "排放源统计调查产排污核算方法和系数手册",
+        "icon": "material/book",
+        "date": "2021-06-09",
+        "author": "生态环境部",
+        "order": "-20210609",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/xxyxflml",
+      "title": "现行有效法律目录（306件）",
+      "frontmatter": {
+        "title": "现行有效法律目录（306件）",
+        "shortTitle": "现行有效法律目录",
+        "icon": "material/file-document",
+        "date": "2025-05-07",
+        "author": "中国人大网",
+        "order": "-20250507",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/zggmsthjyjksy",
+      "title": "中国公民生态环境与健康素养",
+      "frontmatter": {
+        "title": "中国公民生态环境与健康素养",
+        "shortTitle": "公民生态环境与健康素养",
+        "icon": "material/book",
+        "date": "2020-07-23",
+        "author": "生态环境部",
+        "order": "-20200723",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-554-2010",
+      "title": "HJ 554—2010",
+      "frontmatter": {
+        "title": "HJ 554—2010",
+        "subtitle": "饮食业环境保护技术规范",
+        "icon": "material/book",
+        "date": "2010-04-01",
+        "author": "原环境保护部",
+        "order": "-20100401",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-7-2022",
+      "title": "HJ 7—2022",
+      "frontmatter": {
+        "title": "HJ 7—2022",
+        "subtitle": "生态环境档案分类表",
+        "icon": "material/book",
+        "date": "2022-10-01",
+        "author": "生态环境部",
+        "order": "-20221001",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-9-2022",
+      "title": "HJ 9—2022",
+      "frontmatter": {
+        "title": "HJ 9—2022",
+        "subtitle": "生态环境档案著录细则",
+        "icon": "material/book",
+        "date": "2022-03-15",
+        "author": "生态环境部",
+        "order": "-20220315",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "其他"
+        ]
+      }
+    }
+  ],
+  "监测": [
+    {
+      "link": "Laws/P2/EE/sthjjctl",
+      "title": "生态环境监测条例",
+      "frontmatter": {
+        "title": "生态环境监测条例",
+        "icon": "material/file-document",
+        "date": "2026-01-01",
+        "author": "国务院",
+        "order": "-20260101",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/hjjcglbf",
+      "title": "环境监测管理办法",
+      "frontmatter": {
+        "title": "环境监测管理办法",
+        "icon": "material/file-document",
+        "date": "2007-09-01",
+        "author": "原国家环境保护总局",
+        "order": "-20070901",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wryzdjkglbf",
+      "title": "污染源自动监控管理办法",
+      "frontmatter": {
+        "title": "污染源自动监控管理办法",
+        "icon": "material/file-document",
+        "date": "2005-11-01",
+        "author": "原国家环境保护总局",
+        "order": "-20051101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "监测",
+          "自动监控"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wryzdjkssxcjdjcbf",
+      "title": "污染源自动监控设施现场监督检查办法",
+      "frontmatter": {
+        "title": "污染源自动监控设施现场监督检查办法",
+        "icon": "material/file-document",
+        "date": "2012-04-01",
+        "author": "原环境保护部",
+        "order": "-20120401",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "监测",
+          "自动监控"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wryzdjkssyxglbf",
+      "title": "污染源自动监控设施运行管理办法",
+      "frontmatter": {
+        "title": "污染源自动监控设施运行管理办法",
+        "icon": "material/file-document",
+        "date": "2008-05-01",
+        "author": "原环境保护部",
+        "order": "-20080501",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "监测",
+          "自动监控"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2596-2024",
+      "title": "DB44/T 2596—2024",
+      "frontmatter": {
+        "title": "DB44/T 2596—2024",
+        "subtitle": "火力发电二氧化碳排放连续监测技术要求",
+        "icon": "material/book",
+        "date": "2025-03-23",
+        "author": "广东省生态环境厅",
+        "order": "-20250323",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-18285-2018",
+      "title": "GB 18285—2018",
+      "frontmatter": {
+        "title": "GB 18285—2018",
+        "subtitle": "汽油车污染物排放限值及测量方法（双怠速法及简易工况法）",
+        "icon": "material/book",
+        "date": "2019-05-01",
+        "author": "生态环境部等",
+        "order": "-20190501",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-36886-2018",
+      "title": "GB 36886—2018",
+      "frontmatter": {
+        "title": "GB 36886—2018",
+        "subtitle": "非道路柴油移动机械排气烟度限值及测量方法",
+        "icon": "material/book",
+        "date": "2018-12-01",
+        "author": "生态环境部等",
+        "order": "-20181201",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-3847-2018",
+      "title": "GB 3847—2018",
+      "frontmatter": {
+        "title": "GB 3847—2018",
+        "subtitle": "柴油车污染物排放限值及测量方法（自由加速法及加载减速法）",
+        "icon": "material/book",
+        "date": "2019-05-01",
+        "author": "生态环境部等",
+        "order": "-20190501",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/G/GB-45841-2025",
+      "title": "GB 45841—2025",
+      "frontmatter": {
+        "title": "GB 45841—2025",
+        "subtitle": "铁路内燃机车及其发动机排气污染物排放限值及测量方法（中国第一阶段）",
+        "icon": "material/book",
+        "date": "2025-09-01",
+        "author": "生态环境部",
+        "order": "-20250901",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1237-2021",
+      "title": "HJ 1237—2021",
+      "frontmatter": {
+        "title": "HJ 1237—2021",
+        "subtitle": "机动车排放定期检验规范",
+        "icon": "material/book",
+        "date": "2022-07-01",
+        "author": "生态环境部",
+        "order": "-20220701",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "大气",
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-1405-2024",
+      "title": "HJ 1405—2024",
+      "frontmatter": {
+        "title": "HJ 1405—2024",
+        "subtitle": "排放口监测点位设置规范",
+        "icon": "material/book",
+        "date": "2027-01-01",
+        "author": "生态环境部",
+        "order": "-20270101",
+        "timeline": "false",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "监测"
+        ]
+      }
+    },
+    {
+      "link": "Standards/HJ/HJ-589-2021",
+      "title": "HJ 589—2021",
+      "frontmatter": {
+        "title": "HJ 589—2021",
+        "subtitle": "突发环境事件应急监测技术规范",
+        "icon": "material/book",
+        "date": "2022-03-01",
+        "author": "生态环境部",
+        "order": "-20220301",
+        "category": [
+          "HJ"
+        ],
+        "tags": [
+          "应急",
+          "监测"
+        ]
+      }
+    }
+  ],
+  "碳排放": [
+    {
+      "link": "Laws/P2/EE/tpfqjyglzxtl",
+      "title": "碳排放权交易管理暂行条例",
+      "frontmatter": {
+        "title": "碳排放权交易管理暂行条例",
+        "icon": "material/file-document",
+        "date": "2024-05-01",
+        "author": "国务院",
+        "order": "-20240501",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "大气",
+          "碳排放"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdstpfglsxbf",
+      "title": "广东省碳排放管理试行办法",
+      "frontmatter": {
+        "title": "广东省碳排放管理试行办法",
+        "shortTitle": "广东碳排放管理试行办法",
+        "icon": "material/file-document",
+        "date": "2014-03-01",
+        "author": "广东省人民政府",
+        "order": "-20140301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "大气",
+          "碳排放"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/tpfqjyglbf",
+      "title": "碳排放权交易管理办法（试行）",
+      "frontmatter": {
+        "title": "碳排放权交易管理办法（试行）",
+        "icon": "material/file-document",
+        "date": "2021-02-01",
+        "author": "生态环境部",
+        "order": "-20210201",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "大气",
+          "碳排放"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/Others/DB-44-T-2496-2024",
+      "title": "DB44/T 2496—2024",
+      "frontmatter": {
+        "title": "DB44/T 2496—2024",
+        "subtitle": "碳配额抵质押融资指南",
+        "icon": "material/book",
+        "date": "2024-07-11",
+        "author": "广东省生态环境厅",
+        "order": "-20240711",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "碳排放"
+        ]
+      }
+    }
+  ],
+  "养殖": [
+    {
+      "link": "Laws/P2/EE/xqgmyzwrfztl",
+      "title": "畜禽规模养殖污染防治条例",
+      "frontmatter": {
+        "title": "畜禽规模养殖污染防治条例",
+        "icon": "material/file-document",
+        "date": "2014-01-01",
+        "author": "国务院",
+        "order": "-20140101",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "养殖"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/W/DB-44-2462-2024",
+      "title": "DB44/ 2462—2024",
+      "frontmatter": {
+        "title": "DB44/ 2462—2024",
+        "subtitle": "水产养殖尾水排放标准",
+        "icon": "material/book",
+        "date": "2024-05-01",
+        "author": "广东省生态环境厅",
+        "order": "-20240501",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "养殖",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Standards/DB/W/DB-44-613-2024",
+      "title": "DB44/ 613—2024",
+      "frontmatter": {
+        "title": "DB44/ 613—2024",
+        "subtitle": "畜禽养殖业污染物排放标准",
+        "icon": "material/book",
+        "date": "2024-05-01",
+        "author": "广东省生态环境厅",
+        "order": "-20240501",
+        "category": [
+          "DB"
+        ],
+        "tags": [
+          "养殖",
+          "水",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/W/GB-18596-2001",
+      "title": "GB 18596—2001",
+      "frontmatter": {
+        "title": "GB 18596—2001",
+        "subtitle": "畜禽养殖业污染物排放标准",
+        "icon": "material/book",
+        "date": "2003-01-01",
+        "author": "原国家环境保护总局",
+        "order": "-20030101",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "养殖"
+        ]
+      }
+    }
+  ],
+  "保护区": [
+    {
+      "link": "Laws/P2/EE/zhrmghgzrbhqtl",
+      "title": "中华人民共和国自然保护区条例",
+      "frontmatter": {
+        "title": "中华人民共和国自然保护区条例",
+        "shortTitle": "自然保护区条例",
+        "icon": "material/file-document",
+        "date": "1994-12-01",
+        "author": "国务院",
+        "order": "-19941201",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "保护区"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/gjjzrbhqjdjcbf",
+      "title": "国家级自然保护区监督检查办法",
+      "frontmatter": {
+        "title": "国家级自然保护区监督检查办法",
+        "icon": "material/file-document",
+        "date": "2006-12-01",
+        "author": "原国家环境保护总局",
+        "order": "-20061201",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "保护区"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/stbhhxsthjjdbf",
+      "title": "生态保护红线生态环境监督办法（试行）",
+      "frontmatter": {
+        "title": "生态保护红线生态环境监督办法（试行）",
+        "shortTitle": "生态保护红线生态环境监督办法（试行）",
+        "icon": "material/file-document",
+        "date": "2023-01-01",
+        "author": "生态环境部",
+        "order": "-20230101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "保护区"
+        ]
+      }
+    }
+  ],
+  "信访": [
+    {
+      "link": "Laws/P2/Others/xfgztl",
+      "title": "信访工作条例",
+      "frontmatter": {
+        "title": "信访工作条例",
+        "icon": "material/file-document",
+        "date": "2022-05-01",
+        "author": "中共中央、国务院",
+        "order": "-20220501",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "信访"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/sthjlyyfflclxfsqqd",
+      "title": "生态环境领域依法分类处理信访诉求清单",
+      "frontmatter": {
+        "title": "生态环境领域依法分类处理信访诉求清单",
+        "shortTitle": "生态环境领域依法分类处理信访诉求清单",
+        "icon": "material/file-table",
+        "date": "2025-10-15",
+        "author": "生态环境部",
+        "order": "-20251015",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "信访"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/sthjxfgzbf",
+      "title": "生态环境信访工作办法",
+      "frontmatter": {
+        "title": "生态环境信访工作办法",
+        "shortTitle": "生态环境信访工作办法",
+        "icon": "material/file-document",
+        "date": "2025-01-01",
+        "author": "生态环境部",
+        "order": "-20250101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "信访"
+        ]
+      }
+    }
+  ],
+  "信息公开": [
+    {
+      "link": "Laws/P2/Others/zhrmghgzfxxgktl",
+      "title": "中华人民共和国政府信息公开条例",
+      "frontmatter": {
+        "title": "中华人民共和国政府信息公开条例",
+        "shortTitle": "政府信息公开条例",
+        "icon": "material/file-document",
+        "date": "2019-05-15",
+        "author": "国务院",
+        "order": "-20190515",
+        "category": [
+          "行政法规"
+        ],
+        "tags": [
+          "信息公开"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/qyhjxxyfplglbf",
+      "title": "企业环境信息依法披露管理办法",
+      "frontmatter": {
+        "title": "企业环境信息依法披露管理办法",
+        "icon": "material/file-document",
+        "date": "2022-02-08",
+        "author": "生态环境部",
+        "order": "-20220208",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "信息公开"
+        ]
+      }
+    }
+  ],
+  "粤": [
+    {
+      "link": "Laws/P3/gdsdqwrfztl",
+      "title": "广东省大气污染防治条例",
+      "frontmatter": {
+        "title": "广东省大气污染防治条例",
+        "shortTitle": "广东大气污染防治条例",
+        "icon": "material/file-document",
+        "date": "2022-11-30",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "3",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdsgtfwwrhjfztl",
+      "title": "广东省固体废物污染环境防治条例",
+      "frontmatter": {
+        "title": "广东省固体废物污染环境防治条例",
+        "shortTitle": "广东固体废物污染环境防治条例",
+        "icon": "material/file-document",
+        "date": "2022-11-30",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "4",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdshjbhtl",
+      "title": "广东省环境保护条例",
+      "frontmatter": {
+        "title": "广东省环境保护条例",
+        "shortTitle": "广东环境保护条例",
+        "icon": "material/file-document",
+        "date": "2022-11-30",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "1",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdsjdcpqwrfztl",
+      "title": "广东省机动车排气污染防治条例",
+      "frontmatter": {
+        "title": "广东省机动车排气污染防治条例",
+        "shortTitle": "广东机动车排气污染防治条例",
+        "icon": "material/file-document",
+        "date": "2022-11-30",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "-20221130",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdsmyhsshsgyfhyjgltl",
+      "title": "广东省民用核设施核事故预防和应急管理条例",
+      "frontmatter": {
+        "title": "广东省民用核设施核事故预防和应急管理条例",
+        "shortTitle": "广东民用核设施核事故预防和应急管理条例",
+        "icon": "material/file-document",
+        "date": "2018-11-29",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "-20181129",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "辐射"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdssszhrmghghjzswrfzfbf",
+      "title": "广东省实施《中华人民共和国环境噪声污染防治法》办法",
+      "frontmatter": {
+        "title": "广东省实施《中华人民共和国环境噪声污染防治法》办法",
+        "shortTitle": "广东实施《环境噪声污染防治法》办法",
+        "icon": "material/file-document",
+        "date": "2018-11-29",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "5",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "噪声"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdssszhrmghgtrwrfzfbf",
+      "title": "广东省实施《中华人民共和国土壤污染防治法》办法",
+      "frontmatter": {
+        "title": "广东省实施《中华人民共和国土壤污染防治法》办法",
+        "shortTitle": "广东实施《土壤污染防治法》办法",
+        "icon": "material/file-document",
+        "date": "2019-03-01",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "-20190301",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "土壤"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdssthjjytl",
+      "title": "广东省生态环境教育条例",
+      "frontmatter": {
+        "title": "广东省生态环境教育条例",
+        "shortTitle": "广东生态环境教育条例",
+        "icon": "material/file-document",
+        "date": "2024-01-01",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "-20240101",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "其他"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/gdsswrfztl",
+      "title": "广东省水污染防治条例",
+      "frontmatter": {
+        "title": "广东省水污染防治条例",
+        "shortTitle": "广东水污染防治条例",
+        "icon": "material/file-document",
+        "date": "2021-09-29",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "2",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/czshwsclcwnclczglbf",
+      "title": "城镇生活污水处理厂污泥处理处置管理办法",
+      "frontmatter": {
+        "title": "城镇生活污水处理厂污泥处理处置管理办法",
+        "shortTitle": "城镇污水厂污泥处理处置管理办法",
+        "icon": "material/file-document",
+        "date": "2022-11-01",
+        "author": "广东省住房和城乡建设厅等",
+        "order": "-20221101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsfxczfglbf",
+      "title": "广东省非现场执法管理办法",
+      "frontmatter": {
+        "title": "广东省非现场执法管理办法",
+        "shortTitle": "广东非现场执法管理办法",
+        "icon": "material/file-document",
+        "date": "2025-05-01",
+        "author": "广东省人民政府",
+        "order": "-20250501",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsjsxmhjyxpjwjfjspbf",
+      "title": "广东省建设项目环境影响评价文件分级审批办法",
+      "frontmatter": {
+        "title": "广东省建设项目环境影响评价文件分级审批办法",
+        "shortTitle": "广东建设项目环评文件分级审批办法",
+        "icon": "material/file-document",
+        "date": "2024-01-19",
+        "author": "广东省人民政府",
+        "order": "-20240119",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "环评"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdstpfglsxbf",
+      "title": "广东省碳排放管理试行办法",
+      "frontmatter": {
+        "title": "广东省碳排放管理试行办法",
+        "shortTitle": "广东碳排放管理试行办法",
+        "icon": "material/file-document",
+        "date": "2014-03-01",
+        "author": "广东省人民政府",
+        "order": "-20140301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "大气",
+          "碳排放"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsxsglbf",
+      "title": "广东省洗砂管理办法",
+      "frontmatter": {
+        "title": "广东省洗砂管理办法",
+        "shortTitle": "广东洗砂管理办法",
+        "icon": "material/file-document",
+        "date": "2023-04-01",
+        "author": "广东省人民政府",
+        "order": "-20230401",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsxzcftzcxssbf",
+      "title": "广东省行政处罚听证程序实施办法",
+      "frontmatter": {
+        "title": "广东省行政处罚听证程序实施办法",
+        "shortTitle": "广东行政处罚听证程序实施办法",
+        "icon": "material/file-document",
+        "date": "2022-06-01",
+        "author": "广东省人民政府",
+        "order": "-20220601",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsxzzfgsbf",
+      "title": "广东省行政执法公示办法",
+      "frontmatter": {
+        "title": "广东省行政执法公示办法",
+        "shortTitle": "广东行政执法公示办法",
+        "icon": "material/file-document",
+        "date": "2021-05-21",
+        "author": "广东省人民政府",
+        "order": "-20210521",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdsxzzfqgcjlbf",
+      "title": "广东省行政执法全过程记录办法",
+      "frontmatter": {
+        "title": "广东省行政执法全过程记录办法",
+        "shortTitle": "广东行政执法全过程记录办法",
+        "icon": "material/file-document",
+        "date": "2021-05-21",
+        "author": "广东省人民政府",
+        "order": "-20210521",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/gdszdxzzfjdfzshbf",
+      "title": "广东省重大行政执法决定法制审核办法",
+      "frontmatter": {
+        "title": "广东省重大行政执法决定法制审核办法",
+        "shortTitle": "广东重大行政执法决定法制审核办法",
+        "icon": "material/file-document",
+        "date": "2021-05-21",
+        "author": "广东省人民政府",
+        "order": "-20210521",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/gdsgyyhfxyjwjplhsff",
+      "title": "广东省工业源挥发性有机物减排量核算方法（2023年修订版）",
+      "frontmatter": {
+        "title": "广东省工业源挥发性有机物减排量核算方法（2023年修订版）",
+        "shortTitle": "广东工业源挥发性有机物减排量核算方法",
+        "icon": "material/book",
+        "date": "2023-11-17",
+        "author": "广东省生态环境厅",
+        "order": "-20231117",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "粤",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/gdsxjyscsyyssybhqml",
+      "title": "广东省县级以上城市饮用水水源保护区名录（2023年）",
+      "frontmatter": {
+        "title": "广东省县级以上城市饮用水水源保护区名录（2023年）",
+        "shortTitle": "广东饮用水水源保护区名录",
+        "icon": "material/file-table",
+        "date": "2023-09-04",
+        "author": "广东省生态环境厅等",
+        "order": "-20230904",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "粤",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/gdbycfml",
+      "title": "广东省生态环境不予行政处罚的轻微违法行为目录",
+      "frontmatter": {
+        "title": "广东省生态环境不予行政处罚的轻微违法行为目录",
+        "shortTitle": "广东轻微违法不予处罚目录",
+        "icon": "material/file-table",
+        "date": "2022-01-01",
+        "author": "广东省生态环境厅",
+        "order": "-6",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/gdclb",
+      "title": "广东省生态环境违法行为行政处罚罚款金额裁量表",
+      "frontmatter": {
+        "title": "广东省生态环境违法行为行政处罚罚款金额裁量表",
+        "shortTitle": "广东行政处罚裁量表",
+        "icon": "material/file-table",
+        "date": "2022-01-01",
+        "author": "广东省生态环境厅",
+        "order": "-7",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/gdssthjxzcfzyclqgd",
+      "title": "广东省生态环境行政处罚自由裁量权规定",
+      "frontmatter": {
+        "title": "广东省生态环境行政处罚自由裁量权规定",
+        "shortTitle": "广东自由裁量权规定",
+        "icon": "material/file-document",
+        "date": "2022-01-01",
+        "author": "广东省生态环境厅",
+        "order": "-8",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "粤",
+          "执法"
+        ]
+      }
+    }
+  ],
+  "噪声": [
+    {
+      "link": "Laws/P3/gdssszhrmghghjzswrfzfbf",
+      "title": "广东省实施《中华人民共和国环境噪声污染防治法》办法",
+      "frontmatter": {
+        "title": "广东省实施《中华人民共和国环境噪声污染防治法》办法",
+        "shortTitle": "广东实施《环境噪声污染防治法》办法",
+        "icon": "material/file-document",
+        "date": "2018-11-29",
+        "author": "广东省人民代表大会常务委员会",
+        "order": "5",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "粤",
+          "噪声"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P5/dzssgsbzdml",
+      "title": "低噪声施工设备指导名录（2024年版）",
+      "frontmatter": {
+        "title": "低噪声施工设备指导名录（2024年版）",
+        "shortTitle": "低噪声施工设备指导名录",
+        "icon": "material/file-table",
+        "date": "2024-12-12",
+        "author": "工业和信息化部等",
+        "order": "241212",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "噪声"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/N/GB-12348-2008",
+      "title": "GB 12348—2008",
+      "frontmatter": {
+        "title": "GB 12348—2008",
+        "subtitle": "工业企业厂界环境噪声排放标准",
+        "icon": "material/book",
+        "date": "2008-10-01",
+        "author": "原环境保护部",
+        "order": "-20081001",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "噪声"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/N/GB-12523-2011",
+      "title": "GB 12523—2011",
+      "frontmatter": {
+        "title": "GB 12523—2011",
+        "subtitle": "建筑施工场界环境噪声排放标准",
+        "icon": "material/book",
+        "date": "2012-07-01",
+        "author": "原环境保护部",
+        "order": "-20120701",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "噪声"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/N/GB-22337-2008",
+      "title": "GB 22337—2008",
+      "frontmatter": {
+        "title": "GB 22337—2008",
+        "subtitle": "社会生活环境噪声排放标准",
+        "icon": "material/book",
+        "date": "2008-10-01",
+        "author": "原环境保护部",
+        "order": "-20081001",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "噪声"
+        ]
+      }
+    },
+    {
+      "link": "Standards/GB/N/GB-3096-2008",
+      "title": "GB 3096—2008",
+      "frontmatter": {
+        "title": "GB 3096—2008",
+        "subtitle": "声环境质量标准",
+        "icon": "material/book",
+        "date": "2008-10-01",
+        "author": "原环境保护部",
+        "order": "1",
+        "category": [
+          "GB"
+        ],
+        "tags": [
+          "噪声"
+        ]
+      }
+    }
+  ],
+  "江": [
+    {
+      "link": "Laws/P3/jmstjlyszbhtl",
+      "title": "江门市潭江流域水质保护条例",
+      "frontmatter": {
+        "title": "江门市潭江流域水质保护条例",
+        "shortTitle": "江门潭江流域水质保护条例",
+        "icon": "material/file-document",
+        "date": "2016-12-01",
+        "author": "江门市人民代表大会常务委员会",
+        "order": "-161201",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "江",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P3/jmsycwrfztl",
+      "title": "江门市扬尘污染防治条例",
+      "frontmatter": {
+        "title": "江门市扬尘污染防治条例",
+        "shortTitle": "江门扬尘污染防治条例",
+        "icon": "material/file-document",
+        "date": "2022-01-01",
+        "author": "江门市人民代表大会常务委员会",
+        "order": "-220101",
+        "category": [
+          "地方性法规"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/jmscspsglbf",
+      "title": "江门市城市排水管理办法",
+      "frontmatter": {
+        "title": "江门市城市排水管理办法",
+        "shortTitle": "江门城市排水管理办法",
+        "icon": "material/file-document",
+        "date": "2020-09-01",
+        "author": "江门市人民政府",
+        "order": "-200901",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "水"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GD/jmsjzljglbf",
+      "title": "江门市建筑垃圾管理办法",
+      "frontmatter": {
+        "title": "江门市建筑垃圾管理办法",
+        "shortTitle": "江门建筑垃圾管理办法",
+        "icon": "material/file-document",
+        "date": "2024-03-01",
+        "author": "江门市人民政府",
+        "order": "-240301",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "固废"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmsrmzfgyhdjzhycxsqydtg",
+      "title": "江门市人民政府关于划定禁止黑烟车行驶区域的通告",
+      "frontmatter": {
+        "title": "江门市人民政府关于划定禁止黑烟车行驶区域的通告",
+        "shortTitle": "江门禁止黑烟车行驶区域",
+        "icon": "material/file-document",
+        "date": "2020-07-16",
+        "author": "江门市人民政府",
+        "order": "-200716",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmsrmzfgyhdjzsygpffdlydjxqydtg",
+      "title": "江门市人民政府关于划定禁止使用高排放非道路移动机械区域的通告",
+      "frontmatter": {
+        "title": "江门市人民政府关于划定禁止使用高排放非道路移动机械区域的通告",
+        "shortTitle": "江门禁止使用高排放非道路移动机械区域",
+        "icon": "material/file-document",
+        "date": "2024-01-01",
+        "author": "江门市人民政府",
+        "order": "-240101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmsrmzfgyjmsrqglzxdqwrwtbpfxzdgg",
+      "title": "江门市人民政府关于江门市燃气锅炉执行大气污染物特别排放限值的公告",
+      "frontmatter": {
+        "title": "江门市人民政府关于江门市燃气锅炉执行大气污染物特别排放限值的公告",
+        "shortTitle": "江门燃气锅炉大气污染物特别排放限值",
+        "icon": "material/file-document",
+        "date": "2022-08-15",
+        "author": "江门市人民政府",
+        "order": "-220815",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmsrmzfgyssgspfbzcyhcxztxjtglcsdtg",
+      "title": "江门市人民政府关于实施国Ⅲ排放标准柴油货车限制通行交通管理措施的通告",
+      "frontmatter": {
+        "title": "江门市人民政府关于实施国Ⅲ排放标准柴油货车限制通行交通管理措施的通告",
+        "shortTitle": "江门国Ⅲ柴油货车限行",
+        "icon": "material/file-document",
+        "date": "2025-09-01",
+        "author": "江门市人民政府",
+        "order": "-250901",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "大气"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/GDOthers/jmssthjjzfgcqgzzd",
+      "title": "江门市生态环境局执法观察期工作制度（试行）",
+      "frontmatter": {
+        "title": "江门市生态环境局执法观察期工作制度（试行）",
+        "shortTitle": "江门生态环境执法观察期工作制度（试行）",
+        "icon": "material/file-document",
+        "date": "2024-07-01",
+        "author": "江门市生态环境局",
+        "order": "-240701",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmbycfzy",
+      "title": "江门市生态环境依法不予行政处罚的轻微环境违法行为工作流程指引",
+      "frontmatter": {
+        "title": "江门市生态环境依法不予行政处罚的轻微环境违法行为工作流程指引",
+        "shortTitle": "江门轻微违法不予处罚指引",
+        "icon": "material/file-document",
+        "date": "2023-03-01",
+        "author": "江门市生态环境局",
+        "order": "-2",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmclb",
+      "title": "江门市生态环境违法行为行政处罚自由裁量权裁量标准参照表",
+      "frontmatter": {
+        "title": "江门市生态环境违法行为行政处罚自由裁量权裁量标准参照表",
+        "shortTitle": "江门行政处罚裁量表",
+        "icon": "material/file-table",
+        "date": "2023-03-01",
+        "author": "江门市生态环境局",
+        "order": "-4",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmsssgdssthjxzcfzyclqgdxz",
+      "title": "江门市实施《广东省生态环境行政处罚自由裁量权规定》细则",
+      "frontmatter": {
+        "title": "江门市实施《广东省生态环境行政处罚自由裁量权规定》细则",
+        "shortTitle": "江门实施省裁量权规定细则",
+        "icon": "material/file-document",
+        "date": "2023-03-01",
+        "author": "江门市生态环境局",
+        "order": "-5",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmssthjyfbyxzcfdqwhjwfxwqd",
+      "title": "江门市生态环境依法不予行政处罚的轻微环境违法行为清单",
+      "frontmatter": {
+        "title": "江门市生态环境依法不予行政处罚的轻微环境违法行为清单",
+        "shortTitle": "江门轻微违法不予处罚清单",
+        "icon": "material/file-table",
+        "date": "2025-05-15",
+        "author": "江门市生态环境局",
+        "order": "-3",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P7/jmwfqydqcnzy",
+      "title": "江门市生态环境违法企业主动公开道歉承诺工作指引",
+      "frontmatter": {
+        "title": "江门市生态环境违法企业主动公开道歉承诺工作指引",
+        "shortTitle": "江门违法企业道歉承诺指引",
+        "icon": "material/file-document",
+        "date": "2023-03-01",
+        "author": "江门市生态环境局",
+        "order": "-1",
+        "category": [
+          "自由裁量"
+        ],
+        "tags": [
+          "江",
+          "执法"
+        ]
+      }
+    }
+  ],
+  "生物安全": [
+    {
+      "link": "Laws/P4/MEE/bywswsysswaqhjglbf",
+      "title": "病原微生物实验室生物安全环境管理办法",
+      "frontmatter": {
+        "title": "病原微生物实验室生物安全环境管理办法",
+        "icon": "material/file-document",
+        "date": "2006-05-01",
+        "author": "原国家环境保护总局",
+        "order": "-20060501",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "生物安全"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/jckhbywswjjhjaqglbf",
+      "title": "进出口环保用微生物菌剂环境安全管理办法",
+      "frontmatter": {
+        "title": "进出口环保用微生物菌剂环境安全管理办法",
+        "icon": "material/file-document",
+        "date": "2010-05-01",
+        "author": "原环境保护部等",
+        "order": "-20100501",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "生物安全"
+        ]
+      }
+    }
+  ],
+  "自动监控": [
+    {
+      "link": "Laws/P4/MEE/shljfsfdczdjcsjyyglgd",
+      "title": "生活垃圾焚烧发电厂自动监测数据应用管理规定",
+      "frontmatter": {
+        "title": "生活垃圾焚烧发电厂自动监测数据应用管理规定",
+        "icon": "material/file-document",
+        "date": "2020-01-01",
+        "author": "生态环境部",
+        "order": "-20200101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "自动监控"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wryzdjkglbf",
+      "title": "污染源自动监控管理办法",
+      "frontmatter": {
+        "title": "污染源自动监控管理办法",
+        "icon": "material/file-document",
+        "date": "2005-11-01",
+        "author": "原国家环境保护总局",
+        "order": "-20051101",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "监测",
+          "自动监控"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wryzdjkssxcjdjcbf",
+      "title": "污染源自动监控设施现场监督检查办法",
+      "frontmatter": {
+        "title": "污染源自动监控设施现场监督检查办法",
+        "icon": "material/file-document",
+        "date": "2012-04-01",
+        "author": "原环境保护部",
+        "order": "-20120401",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "监测",
+          "自动监控"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEE/wryzdjkssyxglbf",
+      "title": "污染源自动监控设施运行管理办法",
+      "frontmatter": {
+        "title": "污染源自动监控设施运行管理办法",
+        "icon": "material/file-document",
+        "date": "2008-05-01",
+        "author": "原环境保护部",
+        "order": "-20080501",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "监测",
+          "自动监控"
+        ]
+      }
+    }
+  ],
+  "刑事": [
+    {
+      "link": "Laws/P4/MEEOthers/hjbhxzzfyxssfxjgzbf",
+      "title": "环境保护行政执法与刑事司法衔接工作办法",
+      "frontmatter": {
+        "title": "环境保护行政执法与刑事司法衔接工作办法",
+        "shortTitle": "环保行政执法与刑事司法衔接工作办法",
+        "icon": "material/file-document",
+        "date": "2017-01-25",
+        "author": "原环境保护部等",
+        "order": "-20170125",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "执法",
+          "刑事"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/gyblhjwrxsajygwtzthjy",
+      "title": "关于办理环境污染刑事案件有关问题座谈会纪要",
+      "frontmatter": {
+        "title": "关于办理环境污染刑事案件有关问题座谈会纪要",
+        "shortTitle": "环境污染刑事案件座谈会纪要",
+        "icon": "material/file-document",
+        "date": "2019-02-20",
+        "author": "最高人民法院等",
+        "order": "-20190220",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "刑事"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/zgrmfyzgrmjcygyblhjwrxsajsyflrgwtdjs",
+      "title": "最高人民法院 最高人民检察院关于办理环境污染刑事案件适用法律若干问题的解释",
+      "frontmatter": {
+        "title": "最高人民法院 最高人民检察院关于办理环境污染刑事案件适用法律若干问题的解释",
+        "shortTitle": "环境污染刑事案件司法解释",
+        "icon": "material/file-document",
+        "date": "2023-08-15",
+        "author": "最高人民法院、最高人民检察院",
+        "order": "-20230815",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "执法",
+          "刑事"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P8/hjxsydwzfw",
+      "title": "关于环境污染刑事案件中“有毒物质”的范围",
+      "frontmatter": {
+        "title": "关于环境污染刑事案件中“有毒物质”的范围",
+        "shortTitle": "关于环境污染刑事案件中“有毒物质”的范围",
+        "icon": "material/file-document",
+        "date": "2021-03-04",
+        "author": "VOCs前沿",
+        "order": "-20210304",
+        "category": [
+          "其他"
+        ],
+        "tags": [
+          "执法",
+          "刑事"
+        ]
+      }
+    }
+  ],
+  "竣工验收": [
+    {
+      "link": "Laws/P4/MEEOthers/jsxmjghjbhyszxbf",
+      "title": "建设项目竣工环境保护验收暂行办法",
+      "frontmatter": {
+        "title": "建设项目竣工环境保护验收暂行办法",
+        "icon": "material/file-document",
+        "date": "2017-11-20",
+        "author": "原环境保护部",
+        "order": "-20171120",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "竣工验收"
+        ]
+      }
+    }
+  ],
+  "重大变动": [
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2015/gkjsxmzdbdqd",
+      "title": "港口建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "港口建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2015-06-04",
+        "author": "原环境保护部",
+        "order": "-20150604",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2015/gsgljsxmzdbdqd",
+      "title": "高速公路建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "高速公路建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2015-06-04",
+        "author": "原环境保护部",
+        "order": "-20150604",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2015/hdjsxmzdbdqd",
+      "title": "火电建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "火电建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2015-06-04",
+        "author": "原环境保护部",
+        "order": "-20150604",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2015/mtjsxmzdbdqd",
+      "title": "煤炭建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "煤炭建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2015-06-04",
+        "author": "原环境保护部",
+        "order": "-20150604",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2015/sdjsxmzdbdqd",
+      "title": "水电建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "水电建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2015-06-04",
+        "author": "原环境保护部",
+        "order": "-20150604",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2015/sljsxmzdbdqd",
+      "title": "水利建设项目（枢纽类和引调水工程）重大变动清单（试行）",
+      "frontmatter": {
+        "title": "水利建设项目（枢纽类和引调水工程）重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2015-06-04",
+        "author": "原环境保护部",
+        "order": "-20150604",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2015/sylzysyhgjsxmzdbdqd",
+      "title": "石油炼制与石油化工建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "石油炼制与石油化工建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2015-06-04",
+        "author": "原环境保护部",
+        "order": "-20150604",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2015/tljsxmzdbdqd",
+      "title": "铁路建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "铁路建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2015-06-04",
+        "author": "原环境保护部",
+        "order": "-20150604",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2015/yqgdjsxmzdbdqd",
+      "title": "油气管道建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "油气管道建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2015-06-04",
+        "author": "原环境保护部",
+        "order": "-20150604",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2016/sbdjsxmzdbdqd",
+      "title": "输变电建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "输变电建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2016-08-09",
+        "author": "原环境保护部",
+        "order": "-20160809",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/ddjsxmzdbdqd",
+      "title": "电镀建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "电镀建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/fzyrjsxmzdbdqd",
+      "title": "纺织印染建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "纺织印染建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/gtjsxmzdbdqd",
+      "title": "钢铁建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "钢铁建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/hfjsxmzdbdqd",
+      "title": "化肥（氮肥）建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "化肥（氮肥）建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/ljhxjsxmzdbdqd",
+      "title": "炼焦化学建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "炼焦化学建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/lyljsxmzdbdqd",
+      "title": "铝冶炼建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "铝冶炼建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/nyjsxmzdbdqd",
+      "title": "农药建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "农药建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/pbbljsxmzdbdqd",
+      "title": "平板玻璃建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "平板玻璃建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/snjsxmzdbdqd",
+      "title": "水泥建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "水泥建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/tqxyljsxmzdbdqd",
+      "title": "铜铅锌冶炼建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "铜铅锌冶炼建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/zgjsxmzdbdqd",
+      "title": "制革建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "制革建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/zjzzjsxmzdbdqd",
+      "title": "制浆造纸建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "制浆造纸建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/ztjsxmzdbdqd",
+      "title": "制糖建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "制糖建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2018/zyjsxmzdbdqd",
+      "title": "制药建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "制药建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2018-01-30",
+        "author": "原环境保护部",
+        "order": "-20180130",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2019/dfjsxmzdbdqd",
+      "title": "淀粉建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "淀粉建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2019-12-23",
+        "author": "生态环境部",
+        "order": "-20191223",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2019/fljsxmzdbdqd",
+      "title": "肥料制造建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "肥料制造建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2019-12-23",
+        "author": "生态环境部",
+        "order": "-20191223",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2019/mtyljsxmzdbdqd",
+      "title": "镁、钛冶炼建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "镁、钛冶炼建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2019-12-23",
+        "author": "生态环境部",
+        "order": "-20191223",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2019/ngxtgyljsxmzdbdqd",
+      "title": "镍、钴、锡、锑、汞冶炼建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "镍、钴、锡、锑、汞冶炼建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2019-12-23",
+        "author": "生态环境部",
+        "order": "-20191223",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2019/scljsxmzdbdqd",
+      "title": "水处理建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "水处理建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2019-12-23",
+        "author": "生态环境部",
+        "order": "-20191223",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2020/wryxljsxmzdbdqd",
+      "title": "污染影响类建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "污染影响类建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2020-12-13",
+        "author": "生态环境部",
+        "order": "-20201213",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2020/ykyjsxmzdbdqd",
+      "title": "铀矿冶建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "铀矿冶建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2020-12-23",
+        "author": "生态环境部",
+        "order": "-20201223",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2024/gbdsldwxdqsxzjsxmzdbdqd",
+      "title": "广播电视、雷达、卫星地球上行站建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "广播电视、雷达、卫星地球上行站建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2024-12-31",
+        "author": "生态环境部",
+        "order": "-20241231",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2024/hyyqkfjsxmzdbdqd",
+      "title": "海洋油气开发建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "海洋油气开发建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2024-12-31",
+        "author": "生态环境部",
+        "order": "-20241231",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd/2025/hjslyjsxmzdbdqd",
+      "title": "核技术利用建设项目重大变动清单（试行）",
+      "frontmatter": {
+        "title": "核技术利用建设项目重大变动清单（试行）",
+        "icon": "material/file-document",
+        "date": "2025-08-29",
+        "author": "生态环境部",
+        "order": "-20250829",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "重大变动"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/jsxmzdbdqd",
+      "title": "建设项目重大变动清单（汇总）",
+      "frontmatter": {
+        "title": "建设项目重大变动清单（汇总）",
+        "icon": "material/file-document",
+        "date": "2025-08-29",
+        "author": "生态环境部",
+        "order": "-20250829",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "环评",
+          "重大变动"
+        ]
+      }
+    }
+  ],
+  "自然生态": [
+    {
+      "link": "Laws/P4/MEEOthers/lsqsjsjsyssjcxjdjsglgc",
+      "title": "“绿水青山就是金山银山”实践创新基地建设管理规程",
+      "frontmatter": {
+        "title": "“绿水青山就是金山银山”实践创新基地建设管理规程",
+        "shortTitle": "实践创新基地建设管理规程",
+        "icon": "material/book",
+        "date": "2025-08-18",
+        "author": "生态环境部",
+        "order": "-20250818",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "自然生态"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P4/MEEOthers/stwmjssfqglgc",
+      "title": "生态文明建设示范区管理规程",
+      "frontmatter": {
+        "title": "生态文明建设示范区管理规程",
+        "shortTitle": "生态文明建设示范区管理规程",
+        "icon": "material/book",
+        "date": "2025-08-18",
+        "author": "生态环境部",
+        "order": "-20250818",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "自然生态"
+        ]
+      }
+    }
+  ],
+  "损害赔偿": [
+    {
+      "link": "Laws/P4/MEEOthers/sthjshpcglgd",
+      "title": "生态环境损害赔偿管理规定",
+      "frontmatter": {
+        "title": "生态环境损害赔偿管理规定",
+        "shortTitle": "生态环境损害赔偿管理规定",
+        "icon": "material/file-document",
+        "date": "2022-04-28",
+        "author": "生态环境部等",
+        "order": "-20220428",
+        "category": [
+          "规章"
+        ],
+        "tags": [
+          "损害赔偿"
+        ]
+      }
+    }
+  ],
+  "新污染物": [
+    {
+      "link": "Laws/P5/zdgkxwrwqd",
+      "title": "重点管控新污染物清单（2023年版）",
+      "frontmatter": {
+        "title": "重点管控新污染物清单（2023年版）",
+        "shortTitle": "重点管控新污染物清单",
+        "icon": "material/file-table",
+        "date": "2023-03-01",
+        "author": "生态环境部",
+        "order": "230301",
+        "category": [
+          "名录"
+        ],
+        "tags": [
+          "新污染物"
+        ]
+      }
+    }
+  ],
+  "生态环境侵权": [
+    {
+      "link": "Laws/P6/zgrmfygyslsthjqqjfajsyflrgwtdjs",
+      "title": "最高人民法院关于审理生态环境侵权责任纠纷案件适用法律若干问题的解释",
+      "frontmatter": {
+        "title": "最高人民法院关于审理生态环境侵权责任纠纷案件适用法律若干问题的解释",
+        "shortTitle": "生态环境侵权案件适用法律司法解释",
+        "icon": "material/file-document",
+        "date": "2023-09-01",
+        "author": "最高人民法院",
+        "order": "-20230901",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "生态环境侵权"
+        ]
+      }
+    },
+    {
+      "link": "Laws/P6/zgrmfygysthjqqmssszjdrggd",
+      "title": "最高人民法院关于生态环境侵权民事诉讼证据的若干规定",
+      "frontmatter": {
+        "title": "最高人民法院关于生态环境侵权民事诉讼证据的若干规定",
+        "shortTitle": "生态环境侵权民事诉讼证据司法解释",
+        "icon": "material/file-document",
+        "date": "2023-09-01",
+        "author": "最高人民法院",
+        "order": "-20230901",
+        "category": [
+          "法律解释"
+        ],
+        "tags": [
+          "生态环境侵权"
+        ]
+      }
+    }
+  ]
+}

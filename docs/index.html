@@ -1,18 +1,101 @@
 <!DOCTYPE html>
-<html>
+
 <head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+  <meta name="description" content="">
+  <title></title>
+
+  <!-- Themes (light + dark) -->
+  <link rel="stylesheet" media="(prefers-color-scheme: dark)"
+    href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <link rel="stylesheet" media="(prefers-color-scheme: light)"
+    href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 </head>
+
 <body>
   <div id="app"></div>
+
   <script>
+    // Docsify Configuration
     window.$docsify = {
-      //...
+
+      name: '生态环境知识库',
+
+      //侧边栏
+      loadSidebar: true,
+
+      //顶部栏
+      loadNavbar: false,
+
+      //封面页
+      coverpage: true,
+
+      // 启用相对路径
+      relativePath: false,
+
+      // 切换页面后是否自动跳转到页面顶部
+      auto2top: true,
+
+      // 启用搜索插件
+      search: {
+        paths: "auto", // default
+        noData: {
+          "/": "没有找到结果",
+        },
+        placeholder: {
+          "/": "搜索",
+        },
+      },
+
+      // 分页插件配置
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+
+      // 标签页插件配置
+      tabs: {
+        persist: true, // default
+        sync: true, // default
+        theme: "classic", // default
+        tabComments: true, // default
+        tabHeadings: true, // default
+      },
+
+      'flexible-alerts': {
+        style: 'flat'
+      },
+
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+  <!-- Required -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+  <!-- 全文搜索插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <!-- 图片缩放插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <!-- 分页插件 -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 标签页插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- 官方front-matter插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.min.js"></script>
+  <!-- 读取front-matter插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-mustache-plus"></script>
+  <!-- 替换为新的轻量插件 -->
+  <script src="plugins/tag-plugin-lite.js"></script>
+  <!-- 高亮块插件 -->
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <!-- 自定义TOC插件 -->
+  <script src="plugins/toc-plugin.js"></script>
 </body>
+
 </html>
