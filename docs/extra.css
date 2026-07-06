@@ -1,0 +1,391 @@
+/* 全局设置 */
+:root {
+  --content-max-width: 62em;
+  --link-color--hover: var(--theme-color);
+  --link-text-decoration: none;
+  --link-text-decoration--hover: underline;
+  --blockquote-font-size: 16px; 
+}
+
+.markdown-section h1,
+.markdown-section h2 {
+  font-weight: 600;
+} 
+
+.markdown-section {
+  font-size: 18px;
+  text-align: justify; /* 两端对齐，避免右侧参差不齐 */
+}
+
+.alert {
+  font-size: 16px;
+}
+
+/* 移动端（宽度 ≤ 768px） */
+@media screen and (max-width: 768px) {
+  .markdown-section {
+    padding: 2rem 30px;
+  }
+}
+
+/* ============================================================
+   docsify-tabs 合并样式 + 锚点修复补丁
+   包含：CSS 变量 + 基础样式 + 经典/材质主题 + scroll-margin
+   ============================================================ */
+
+/* ---------- 变量定义（来自 vars.css） ---------- */
+:root {
+  --docsifytabs-border-px: 1px;
+  --docsifytabs-border-radius-px: ;
+  --docsifytabs-margin: 1.5em 0;
+  --docsifytabs-tab-background--active: var(--docsifytabs-content-background);
+  --docsifytabs-tab-color: #999;
+  --docsifytabs-tab-color--active: inherit;
+  --docsifytabs-tab-highlight-px: 3px;
+  --docsifytabs-tab-highlight-color: var(--theme-color, currentColor);
+  --docsifytabs-tab-padding: 0.6em 1em;
+  --docsifytabs-content-background: inherit;
+  --docsifytabs-content-padding: 1.5rem;
+}
+
+/* ---------- 基础样式（来自 style.scss） ---------- */
+.docsify-tabs:before,
+.docsify-tabs__tab {
+  z-index: 1;
+}
+
+.docsify-tabs__tab:focus,
+.docsify-tabs__tab--active {
+  z-index: 2;
+}
+
+.docsify-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  font-size: 16px;
+  text-align: left;
+}
+
+.docsify-tabs:before {
+  content: '';
+  order: 0;
+  flex: 1;
+}
+
+.docsify-tabs__tab {
+  order: -1;
+  position: relative;
+  margin: 0;
+  font-size: inherit;
+  appearance: none;
+}
+
+.docsify-tabs__content[class] {
+  visibility: hidden;
+  position: absolute;
+  overflow: hidden;
+  height: 0;
+  width: 100%;
+}
+
+.docsify-tabs__content[class]> :first-child {
+  margin-top: 0;
+}
+
+.docsify-tabs__content[class]> :last-child {
+  margin-bottom: 0;
+}
+
+.docsify-tabs__tab--active+.docsify-tabs__content[class] {
+  visibility: visible;
+  position: relative;
+  overflow: auto;
+  height: auto;
+}
+
+/* ---------- 主题样式（经典 & 材质） ---------- */
+[class*='docsify-tabs--'] {
+  margin: var(--docsifytabs-margin);
+}
+
+[class*='docsify-tabs--']>.docsify-tabs__tab {
+  padding: var(--docsifytabs-tab-padding);
+  background: var(--docsifytabs-tab-background);
+  color: var(--docsifytabs-tab-color);
+}
+
+[class*='docsify-tabs--']>.docsify-tabs__tab--active {
+  background: var(--docsifytabs-tab-background--active);
+  color: var(--docsifytabs-tab-color--active);
+}
+
+[class*='docsify-tabs--']>.docsify-tabs__content {
+  background: var(--docsifytabs-content-background);
+}
+
+[class*='docsify-tabs--']>.docsify-tabs__tab--active+.docsify-tabs__content {
+  padding: var(--docsifytabs-content-padding);
+}
+
+/* ---- 经典主题 ---- */
+.docsify-tabs--classic:before,
+.docsify-tabs--classic>.docsify-tabs__tab,
+.docsify-tabs--classic>.docsify-tabs__content {
+  border-width: var(--docsifytabs-border-px);
+  border-style: solid;
+  border-color: var(--docsifytabs-border-color);
+}
+
+.docsify-tabs--classic:before {
+  margin-right: var(--docsifytabs-border-px);
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+}
+
+.docsify-tabs--classic>.docsify-tabs__tab:first-of-type {
+  border-top-left-radius: var(--docsifytabs-border-radius-px);
+}
+
+.docsify-tabs--classic>.docsify-tabs__tab:last-of-type {
+  border-top-right-radius: var(--docsifytabs-border-radius-px);
+}
+
+.docsify-tabs--classic>.docsify-tabs__tab~.docsify-tabs__tab {
+  margin-left: calc(0px - var(--docsifytabs-border-px));
+}
+
+.docsify-tabs--classic>.docsify-tabs__tab--active {
+  border-bottom-width: 0;
+  box-shadow: inset 0 var(--docsifytabs-tab-highlight-px) 0 0 var(--docsifytabs-tab-highlight-color);
+}
+
+.docsify-tabs--classic>.docsify-tabs__content {
+  margin-top: calc(0px - var(--docsifytabs-border-px));
+  border-top: 0;
+  border-radius: 0 var(--docsifytabs-border-radius-px) var(--docsifytabs-border-radius-px) var(--docsifytabs-border-radius-px);
+}
+
+/* ---- 材质主题 ---- */
+.docsify-tabs--material>.docsify-tabs__tab {
+  margin-bottom: calc(var(--docsifytabs-tab-highlight-px) - var(--docsifytabs-border-px));
+  background: transparent;
+  border: 0;
+}
+
+.docsify-tabs--material>.docsify-tabs__tab--active {
+  box-shadow: 0 var(--docsifytabs-tab-highlight-px) 0 0 var(--docsifytabs-tab-highlight-color);
+  background: transparent;
+}
+
+.docsify-tabs--material>.docsify-tabs__content {
+  border-width: var(--docsifytabs-border-px) 0;
+  border-style: solid;
+  border-color: var(--docsifytabs-border-color);
+}
+
+iframe {
+  width: 100%;
+  height: 400px;
+  border: none;
+}
+
+/* ---------- 基础按钮容器 ---------- */
+.markdown-section .frontmatter-btn {
+  display: inline-block;
+  margin: 0.15rem 0.25rem 0.15rem 0;
+  /* 右侧间距，下侧间距 */
+  line-height: 1;
+}
+
+/* ---------- 所有按钮链接的通用样式 ---------- */
+.markdown-section .frontmatter-btn a {
+  display: inline-block;
+  padding: 0.25rem 0.7rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-align: center;
+  color: var(--theme-color, #42b983);
+  background: var(--docsifytabs-tab-background, #f7f7f7);
+  border: 1px solid var(--docsifytabs-border-color, #e3e3e3);
+  border-radius: 3px;
+  /* 矩形圆角 */
+  text-decoration: none;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+/* ---------- 悬停效果 ---------- */
+.markdown-section .frontmatter-btn a:hover {
+  background: var(--theme-color, #42b983);
+  color: #fff;
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ---------- rules 专用：固定宽度，文字居中 ---------- */
+.markdown-section .frontmatter-btn-rules a {
+  width: 2.5rem;
+  /* 固定宽度，数字1~99均可容纳 */
+  padding: 0.25rem 0;
+  /* 左右内边距为0，宽度由width决定 */
+  text-align: center;
+}
+
+/* 对于三位数（100+）可能需要更宽，可以调整宽度或使用min-width+固定padding */
+/* 建议根据最大数值调整，例如 rules: 129，可用 width: 2.8rem; */
+
+/* tag-plugin.css */
+
+/* 标签导航栏 */
+.tag-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  padding: 12px 0 20px 0;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 20px;
+}
+
+/* 标签导航项，已用frontmatter-btn样式替代，拟作废
+.tag-nav-item {
+  display: inline-block;
+  padding: 4px 12px;
+  background: #f0f2f5;
+  border-radius: 20px;
+  font-size: 0.9em;
+  color: #0366d6;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.tag-nav-item:hover {
+  background: #e0e5ec;
+  text-decoration: none;
+}
+*/
+
+/* 标签标题 */
+.tag-plugin-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  /* font-size: 1.5em; */
+  margin: 1.5em 0 0.5em 0;
+  border-bottom: 2px solid #e8e8e8;
+  padding-bottom: 0.3em;
+  scroll-margin-top: 80px;
+  /* 防止固定导航遮挡 */
+}
+
+.tag-plugin-title i {
+  color: #2c7be5;
+}
+
+/* 文章列表 */
+.tag-plugin-list {
+  list-style: none;
+  padding-left: 0 !important;
+  margin: 0;
+  font-size: 18px;
+}
+
+.tag-plugin-item {
+  display: flex;
+  align-items: center;
+  padding: 6px 0;
+  border-bottom: 1px dashed #e0e0e0;
+}
+
+/* 圆点 */
+.tag-plugin-item-bullet {
+  color: #999;
+  font-weight: bold;
+  margin-right: 8px;
+  font-size: 1.2em;
+}
+
+.tag-plugin-item-title {
+  flex: 1;
+  padding-right: 12px;
+}
+
+/* 
+.tag-plugin-item-title a {
+  text-decoration: none;
+}
+.tag-plugin-item-title a:hover {
+  text-decoration: underline;
+  color: #0366d6;
+}
+*/
+
+/* 日期 */
+.tag-plugin-item-date {
+  white-space: nowrap;
+  color: #999;
+  font-size: 0.9em;
+}
+
+/* 空状态 */
+.tag-plugin-empty {
+  color: #666;
+  font-style: italic;
+}
+
+/* 默认 full-title 显示，short-title 隐藏 */
+.tag-plugin-short-title {
+  display: none;
+}
+
+.tag-plugin-full-title {
+  display: inline;
+}
+
+/* 移动端（宽度 ≤ 768px）有 short-title 时切换显示 */
+@media screen and (max-width: 768px) {
+  .tag-plugin-item.has-short .tag-plugin-full-title {
+    display: none;
+  }
+
+  .tag-plugin-item.has-short .tag-plugin-short-title {
+    display: inline;
+  }
+}
+
+/* 返回顶部按钮 - Vuetify FAB 风格，适配 docsify-themeable */
+.scroll-top-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 99;
+  display: none;
+  /* 默认隐藏 */
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  /* 圆形 */
+  background: var(--theme-color, #1976D2);
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+  transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+  text-decoration: none;
+  user-select: none;
+}
+
+.scroll-top-btn:hover {
+  background: var(--theme-color-dark, #1565C0);
+  transform: scale(1.05);
+  /* 悬停微微放大 */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+}
+
+.scroll-top-btn:active {
+  transform: scale(0.92);
+  /* 点击下沉效果 */
+}
