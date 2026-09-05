@@ -42,7 +42,7 @@
     hook.afterEach(function(html) {
       return html + `
         <div id="scroll-top-btn" class="scroll-top-btn" aria-label="返回顶部">
-          <i class="fas fa-arrow-up" style="margin-top: -1px;"></i>
+          <i class="bi bi-chevron-double-up" style="margin-top: -1px;color: white"></i>
         </div>
       `;
     });

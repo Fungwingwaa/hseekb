@@ -8,7 +8,7 @@
 
   // ===== 插件配置 =====
   var CONFIG = {
-    maxLevel: 4,              // 最大显示标题层级 (2-6)
+    maxLevel: 5,              // 最大显示标题层级 (2-6)
     minLevel: 2,              // 最小显示标题层级（从 H2 开始，不显示 H1）
     listClass: 'toc-list',
     itemClass: 'toc-item',

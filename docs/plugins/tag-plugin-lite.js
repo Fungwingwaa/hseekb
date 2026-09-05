@@ -77,7 +77,6 @@
     return text.replace(/\s+/g, '-').replace(/[^a-zA-Z0-9\u4e00-\u9fa5\-]/g, '');
   }
 
-  // ========== 修改点1：增加 listId 参数，标题改为 <h3> ==========
   function renderArticleList(articles, showTitle, titleText, listId) {
     if (!articles || articles.length === 0) {
       return '<p class="tag-plugin-empty">📭 没有相关文章</p>';
@@ -93,7 +92,6 @@
       html += '</h3>';
     }
 
-    // 如果有 listId，则作为 ul 的 id
     html += '<ul class="tag-plugin-list"' + (listId ? ' id="' + listId + '"' : '') + '>';
     sorted.forEach(function(p) {
       var fm = p.frontmatter;
@@ -121,33 +119,77 @@
   }
 
   function processTags(match, tag) {
-    var tagName = tag.trim();
+    var tagStr = tag.trim();
     var tagMap = data.tags || {};
-    if (tagName === 'all') {
-      var allNames = Object.keys(tagMap).sort();
+
+    // 判断是否为 all 命令
+    if (tagStr.startsWith('all')) {
+      // 提取参数：去掉 "all" 前缀，剩余部分按逗号分割
+      var rest = tagStr.substring(3).trim();
+      var specified = [];
+      if (rest) {
+        specified = rest.split(',').map(function(s) { return s.trim(); }).filter(Boolean);
+      }
+
+      // 获取所有标签名
+      var allNames = Object.keys(tagMap);
       if (allNames.length === 0) {
         return '<p class="tag-plugin-empty">📭 当前没有任何标签</p>';
       }
+
+      // 根据指定顺序和数量降序排列
+      var ordered = [];
+      var remaining = [];
+
+      if (specified.length > 0) {
+        // 先按指定顺序添加存在的标签
+        specified.forEach(function(name) {
+          if (tagMap[name] && ordered.indexOf(name) === -1) {
+            ordered.push(name);
+          }
+        });
+        // 剩余标签按数量降序
+        allNames.forEach(function(name) {
+          if (ordered.indexOf(name) === -1) {
+            remaining.push(name);
+          }
+        });
+        remaining.sort(function(a, b) {
+          return tagMap[b].length - tagMap[a].length;
+        });
+        ordered = ordered.concat(remaining);
+      } else {
+        // 无指定顺序，直接按数量降序
+        allNames.sort(function(a, b) {
+          return tagMap[b].length - tagMap[a].length;
+        });
+        ordered = allNames;
+      }
+
+      // 生成导航
       var navHtml = '<div class="tag-nav">';
-      allNames.forEach(function(t) {
+      ordered.forEach(function(t) {
         var tid = slugify(t);
         navHtml += '<span class="frontmatter-btn">' + '<a href="#/Others/tags?id=' + tid + '">' + t + '</a>' + '</span>';
       });
       navHtml += '</div>';
 
+      // 生成每个标签的内容（带标题）
       var bodyHtml = '';
-      allNames.forEach(function(t) {
+      ordered.forEach(function(t) {
         var articles = tagMap[t] || [];
         bodyHtml += renderArticleList(articles, true, t); // 不传 listId
       });
       return navHtml + bodyHtml;
     } else {
+      // 指定标签：不显示标题，ul 添加 id
+      var tagName = tagStr;
       var articles = tagMap[tagName] || [];
-      return renderArticleList(articles, true, tagName);
+      var listId = slugify(tagName);
+      return renderArticleList(articles, false, '', listId);
     }
   }
 
-  // ========== 修改点2：category 调用时传入 listId = slugify(catName) ==========
   function processCategory(match, cat) {
     var catName = cat.trim();
     var catMap = data.categories || {};
