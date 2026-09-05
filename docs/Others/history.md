@@ -1,4 +1,4 @@
-# 历史更新记录
+# <i class="bi bi-archive-fill" style="color:var(--theme-color)"></i> 历史更新记录
 
 ## 2024年
 

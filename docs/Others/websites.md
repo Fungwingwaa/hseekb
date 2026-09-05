@@ -2,14 +2,14 @@
 title: 导航
 ---
 
-# 环保网站
+# <i class="bi bi-globe" style="color:var(--theme-color)"></i> 环保网站
 
-### 理论学习
+### <i class="bi bi-book-half"></i> 理论学习
 
 - [学习强国](https://www.xuexi.cn/xxqg.html?id=agnmmngckccagnmmngckccagnmmngckc)
 - [求是网](http://www.qstheory.cn/zoology/index.htm)
 
-### 官方网站
+### <i class="bi bi-flag-fill"></i> 官方网站
 
 - [中国政府网](http://www.gov.cn/)
 - [国家生态环境部](https://www.mee.gov.cn/)
@@ -17,7 +17,7 @@ title: 导航
 - [最高人民法院](https://www.court.gov.cn/)
 - [中国人大网](http://www.npc.gov.cn/)
 
-### 规范文件库
+### <i class="bi bi-folder-fill"></i> 规范文件库
 
 - [国家法律法规数据库](https://flk.npc.gov.cn/)
 - [国家行政法规库](http://xzfg.moj.gov.cn/search2.html)
@@ -33,7 +33,7 @@ title: 导航
 - [广东政府文件库](https://www.gd.gov.cn/zwgk/wjk/index.html)
 - [江门规范性文件库](http://www.jiangmen.gov.cn/gkmlpt/search?type=standardSearch)
 
-### 环境影响评价
+### <i class="bi bi-leaf-fill"></i> 环境影响评价
 
 - [全国环境影响评价管理信息平台](http://114.251.10.205/#/pub-message)
 - [建设项目环境影响登记表信息公开](https://beian.china-eia.com/f/announcement/announcementShow)
@@ -41,11 +41,11 @@ title: 导航
 - [环境影响评价网](https://www.china-eia.com/)
 - [广东建设项目环境保护审批](http://gdee.gd.gov.cn/hpsp/index.html)
 
-### 排污许可管理
+### <i class="bi bi-ui-checks"></i> 排污许可管理
 
 - [全国排污许可证管理信息平台](http://permit.mee.gov.cn/permitExt/defaults/default-index!getInformation.action)
 
-### 环境数据信息
+### <i class="bi bi-graph-up"></i> 环境数据信息
 
 - [全国空气质量预报信息发布系统](https://air.cnemc.cn:18014/)
 - [国家地表水水质自动监测实时数据发布系统](https://szzdjc.cnemc.cn:8070/GJZ/Business/Publish/Main.html)
@@ -56,7 +56,7 @@ title: 导航
 - [广东排污单位自行监测信息公开平台](https://wryjc.cnemc.cn/gkpt/mainZxjc/440000)
 - [企业环境信息依法披露系统](https://www-app.gdeei.cn/gdeepub/front/dal/dal/newindex)
 
-### 其他
+### <i class="bi bi-three-dots"></i> 其他
 
 - [气象实况](http://data.cma.cn/dataGis/static/gridgis/#/pcindex)
 - [全国认证认可信息公共服务平台](http://cx.cnca.cn/CertECloud/index/index/page)
